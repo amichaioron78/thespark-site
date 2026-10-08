@@ -1,0 +1,237 @@
+{
+  "slug": "deepkeep",
+  "seo": {
+    "title": "Deepkeep | Spark Design Agency - UX/UI & Branding",
+    "description": "Spark Design collaborated with DeepKeep to design a user-friendly software interface and demo website for MLProtect, DeepKeep's AI-driven solution for data scientists, MLOps, and IT professionals.",
+    "ogImage": null
+  },
+  "hero": {
+    "bgImage": "/images/646cceb8ac1d146a21cf2b42_Deepkeep_bg_2.webp",
+    "bgAlt": "",
+    "logo": "/images/646cce39f2c1ba49c62cea05_Deepkeep_logo.svg",
+    "logoAlt": "",
+    "color": "#2f2b47",
+    "heroBg": null,
+    "meta": [
+      {
+        "label": "TYPE",
+        "value": "Website Design, Software Design, Saas , B2B"
+      },
+      {
+        "label": "CLIENT",
+        "value": "Deepkeep"
+      },
+      {
+        "label": "DELIVERABLES",
+        "value": "Software Design, Website Design, UX, UI"
+      }
+    ],
+    "title": "DeepKeep's Cyber security scalable and reliable AI/ML deployments.",
+    "introHtml": "<p>Spark Design collaborated with DeepKeep to design a user-friendly software interface and demo website for MLProtect, DeepKeep's AI-driven solution for data scientists, MLOps, and IT professionals. </p><p>MLProtect offers seamless integration with various tools to provide automatic security, visibility, and control over the health of machine learning models in production. </p><p>Our design helps users easily identify threats and see them rectified, ensuring that their models are secure and functioning optimally.</p>",
+    "pageBg": null
+  },
+  "blocks": [
+    {
+      "type": "frame",
+      "bg": "#f4f4f8",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/64620e39a64b0e487fcc0a29_deepKeep_1.svg",
+          "alt": "",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "html": "<p>We chose the versatile Helvetica font for DeepKeep's design, allowing it to be seamlessly implemented in both software screens and graphic layouts.</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "split",
+      "html": "",
+      "images": [
+        {
+          "type": "image",
+          "src": "/images/64620e2a7da47160c63f01d5_deep_keep_2.svg",
+          "alt": "",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        },
+        {
+          "type": "image",
+          "src": "/images/64620e72f956dc30c6ed1bd3_deep_keep_3.svg",
+          "alt": "",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ],
+      "imageFirst": true,
+      "wide": true
+    },
+    {
+      "type": "text",
+      "html": "<p>The labryinth-shaped D in the DeepKeep logo symbolizes the complexity and maze-like nature of data security, reflecting the company's focus on providing integrated tools to protect machine learning models in production.</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "image",
+      "src": "/images/64620f55197d0843981a7c18_deep_keep_4.webp",
+      "alt": "",
+      "variant": "full",
+      "rounded": false,
+      "hidden": false
+    },
+    {
+      "type": "split",
+      "html": "<h2>BRANDING</h2><p>We tested the Deepkeep’s branding on various products to check that it can provide a flexible dynamic solution for the Software , website and company giveaways.</p>",
+      "images": [
+        {
+          "type": "image",
+          "src": "/images/64620f876f0fc1e730ae777e_deep_keep_5.webp",
+          "alt": "",
+          "variant": "full",
+          "rounded": false,
+          "hidden": false
+        }
+      ],
+      "imageFirst": false,
+      "wide": false
+    },
+    {
+      "type": "split",
+      "html": "<h2>Branding</h2><p>The D logo resonates in various locations in the brand Kit.</p>",
+      "images": [
+        {
+          "type": "image",
+          "src": "/images/64620fcf0f002eb8fb851837_deep_keep_6.webp",
+          "alt": "",
+          "variant": "full",
+          "rounded": false,
+          "hidden": false
+        }
+      ],
+      "imageFirst": true,
+      "wide": false
+    },
+    {
+      "type": "frame",
+      "bg": "#f4f4f8",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/64620ff201f23c3b70fad3b8_deep_keep_7.webp",
+          "alt": "",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "html": "<p>We used a dark theme with neon highlight to signify that this product is analytical and from the future.</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "frame",
+      "bg": "#f4f4f8",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/646210320b68baae83e87ab0_deep_keep_9.webp",
+          "alt": "",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "html": "<p>Spark Complemented the Software with simple Illustrations to delight users</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "frame",
+      "bg": "#f4f4f8",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/646210b778272677b981b55b_deep_keep_8.webp",
+          "alt": "",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "html": "<p>Onboarding wizards help keep clients engaged when providing long forms</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "frame",
+      "bg": "#f4f4f8",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/646210dc78272677b981f4f8_deep_keep_10.webp",
+          "alt": "",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "html": "<p>Deepkeep's Store provides a variety of cybersecurity applications</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "frame",
+      "bg": "#f4f4f8",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/646210f60fae23c844d17579_deep_keep_11.webp",
+          "alt": "",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "slug": "innovesta",
+  "seo": {
+    "title": "Innovesta | Spark Design Agency - UX/UI & Branding",
+    "description": "Innovesta Technologies Ltd. is a FinTech company enabling traders, supply chain managers, investors and financial professionals to make better and smarter business decisions.",
+    "ogImage": null
+  },
+  "hero": {
+    "bgImage": "/images/646ccc371554523ad95ffa66_Innovesta_bg.svg",
+    "bgAlt": "",
+    "logo": "/images/646ccd0132ac655807fef1d4_logo.svg",
+    "logoAlt": "Innovesta logo",
+    "color": "#8952eb",
+    "heroBg": null,
+    "meta": [
+      {
+        "label": "TYPE",
+        "value": "B2B Platform, AI"
+      },
+      {
+        "label": "CLIENT",
+        "value": "Innovesta"
+      },
+      {
+        "label": "DELIVERABLES",
+        "value": "Design Strategy Software Design, Product Design, Concept, UX, UI"
+      }
+    ],
+    "title": "Innovesta.ai investors and entrepreneurscrowd-baseddue diligenceprocess",
+    "introHtml": "<p>Innovesta Technologies Ltd. is a FinTech company enabling traders, supply chain managers, investors and financial professionals to make better and smarter business decisions. Innovesta is the leading AI platform, collecting and analyzing millions of open-source data points to: Uncover correlations, Optimize predictions &amp; Reveal the hidden stories behind assets and companies.</p><p>Innovesta had an MVP but needed to go to the next level with a brand identity that highlights their DNA and looks impressive.The design team dug deep into the core of innovesta to create a signature DNA finger print for the innodex(TM) score. Innovesta's dashboard is about Actionable data that is also inspiring to look at.</p>",
+    "pageBg": "#f1f2f8"
+  },
+  "blocks": [
+    {
+      "type": "frame",
+      "bg": "#ffffff",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/645920e84a4459f916a9890f_Innovesta_dashboard_1.webp",
+          "alt": "",
+          "variant": "web",
+          "rounded": true,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "html": "<h2>THe InnoDex</h2><p>The Innodex is a unique scoring system that creates buzz around companies. It provides a specific score designed to reflect a company's unique DNA.</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#8952eb",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/645920f5b836f655cfbbafe0_Innovesta_dashboard_2.webp",
+              "alt": "",
+              "variant": "small",
+              "rounded": true,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": true,
+      "wide": false
+    },
+    {
+      "type": "text",
+      "html": "<p>We used a dark theme with neon highlight to signify that this product is analytical and from the future.</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "frame",
+      "bg": "#ffffff",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/6459215451ed329b39e9dfd3_Innovesta_dashboard_3.webp",
+          "alt": "",
+          "variant": "web",
+          "rounded": true,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "html": "<h2>Growth</h2><p>At SPARK, we added growth features to the Innovesta dashboard, including crowd opinion, to increase daily engagement and retention. By enabling users to see the opinions and actions of other investors, we created a sense of community and social proof, which led to increased engagement and retention. This feature also allowed users to gain insights into market trends and make informed investment decisions.</p>",
+      "images": [
+        {
+          "type": "image",
+          "src": "/images/64592160a54b8b62695c6506_Innovesta_dashboard_4.webp",
+          "alt": "",
+          "variant": "full",
+          "rounded": false,
+          "hidden": false
+        }
+      ],
+      "imageFirst": false,
+      "wide": false
+    }
+  ]
+}

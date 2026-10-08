@@ -1,0 +1,35 @@
+{
+  "seo": {
+    "title": "Product Design & UX/UI Services in Israel | SPARK",
+    "description": "Product strategy, UX research, UI design, prototyping and design systems for SaaS, AI and mobile products from SPARK in Tel Aviv.",
+    "ogImage": "/images/64459115e83daf2327465f12_spark.png"
+  },
+  "title": "Services",
+  "services": [
+    {
+      "slug": "saas-ux-audit",
+      "title": "SaaS UX Audit",
+      "description": "Get actionable insights and boost user engagement, conversion rates, and revenue with our comprehensive SaaS UX audit services."
+    },
+    {
+      "slug": "software-design",
+      "title": "Software Product Design & UX/UI",
+      "description": "UX strategy, research, prototyping and scalable UI systems for SaaS and complex software"
+    },
+    {
+      "slug": "ai-product-design",
+      "title": "AI Product Design",
+      "description": "Trust and explainability UX, human-in-control design and evaluation guardrails for B2B SaaS and AI products, from Spark in Tel Aviv."
+    },
+    {
+      "slug": "web-mobile-and-iot-design",
+      "title": "Web, Mobile and IOT Design",
+      "description": "Digital Designs that Keep you ahead of the curve."
+    },
+    {
+      "slug": "branding",
+      "title": "Branding",
+      "description": "Branding that Leaves a Lasting Impression."
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "slug": "marketman",
+  "seo": {
+    "title": "MarketMan | Spark Design Agency - UX/UI & Branding",
+    "description": "SPARK was tasked with creating a unique mobile app experience for MarketMan. Our strategy involved implementing adaptive design to cater to on-the-go users.",
+    "ogImage": null
+  },
+  "hero": {
+    "bgImage": "/images/6446dce258d2840ab4f302d5_MarketMan.svg",
+    "bgAlt": "Evrideo hero image ",
+    "logo": null,
+    "logoAlt": "",
+    "color": "#1D5303",
+    "heroBg": "#1d5303",
+    "meta": [
+      {
+        "label": "TYPE",
+        "value": "Mobile App Design, Software Design, Saas , B2B"
+      },
+      {
+        "label": "CLIENT",
+        "value": "Marketman"
+      },
+      {
+        "label": "DELIVERABLES",
+        "value": "Mobile APP Design, UX, UI, Wire-frames, Design Strategy, Branding"
+      }
+    ],
+    "title": "MarketMan, a cloud-based inventory management software for restaurants",
+    "introHtml": "<p>SPARK was assigned the task of creating a unique mobile app experience for MarketMan. Our strategy involved implementing adaptive design to cater to on-the-go users. While MarketMan's software offers detailed reports and numerous features, our approach for the mobile app was to emphasize ongoing events happening in the user's business and keep them up-to-date with the most important events. By leveraging our expertise in UI/UX, we developed a solution that focused on delivering a seamless and user-friendly mobile app experience for restaurant and hospitality operators.</p>",
+    "pageBg": "#fffcf8"
+  },
+  "blocks": [
+    {
+      "type": "frame",
+      "bg": "#ebe3da",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/6458e9cf5dee480340c6c87a_marketman_ui_design_1.webp",
+          "alt": "Market Man by Spark design Agency",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "html": "<h2>The main Dashboards</h2><p>Building apps is focused on daily engagement. The main dashboard of the app aims to provide an overview of your business's current status. The top section of the dashboard highlights two main tasks - creating new orders and scanning incoming invoices. The second part covers reports on received orders, order history, and invoices in a summarized format.</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#f46500",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/644d57207147484a83a7c841_x2_img.webp",
+              "alt": "Market Man Mobile app by Spark design Agency",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": false,
+      "wide": false
+    },
+    {
+      "type": "split",
+      "html": "<h2>Keeping Costumers engaged</h2><p>Keeping users motivated after the initial excitement of a new app has faded can be a challenge. One effective way to improve user engagement during both onboarding and regular product usage is to celebrate their progress. This progress doesn't have to be significant. Recognizing small wins can not only make users feel better about themselves but also improve their opinion of your app. This, in turn, leads to more frequent and engaged sessions.</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#ebe3da",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/6458eb1fe1e0d974d5187ea2_marketman_ui_design_8.webp",
+              "alt": "Market Man Mobile app by Spark design Agency",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "bg": "#ebe3da",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/6458eb0e1b8dbb24c4094a8f_marketman_ui_design_7.webp",
+              "alt": "Market Man Mobile app by Spark design Agency",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": true,
+      "wide": true
+    },
+    {
+      "type": "split",
+      "html": "<h2>The main Dashboards</h2><p>When it comes to building apps, one of the most important aspects is daily engagement. The main screen of the app has been designed to be actionable, providing a quick overview of your business's current status. The top section of the screen emphasizes the two primary tasks: creating new orders and scanning incoming invoices. The second section displays snippet reports of received orders, order history, and invoices.</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#3daf00",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/6458eaed5037697ce653f61b_marketman_ui_design_5.webp",
+              "alt": "Market Man Mobile app by Spark design Agency",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": false,
+      "wide": false
+    },
+    {
+      "type": "split",
+      "html": "<h2>Information Hierarchy</h2><p>UX design organizes content and visual elements to prioritize information and guide users towards goals.</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#3daf00",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/6458eafabf186868ed0d9389_marketman_ui_design_6.webp",
+              "alt": "Market Man Mobile app by Spark design Agency",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": true,
+      "wide": false
+    },
+    {
+      "type": "split",
+      "html": "<h2>Keeping Costumers engaged</h2><p>Visual aids such as charts, graphs, and infographics can present complex data sets in a more understandable and interesting way. Skillfully designed icons and graphics not only improve the appearance of software, but also enhance its usability, user engagement, and overall effectiveness in delivering valuable insights from data.</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#ebe3da",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/6458eb0e1b8dbb24c4094a8f_marketman_ui_design_7.webp",
+              "alt": "Market Man Mobile app by Spark design Agency",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "bg": "#ebe3da",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/6458eb1fe1e0d974d5187ea2_marketman_ui_design_8.webp",
+              "alt": "Market Man Mobile app by Spark design Agency",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": true,
+      "wide": true
+    }
+  ]
+}

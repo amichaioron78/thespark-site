@@ -1,0 +1,9 @@
+<svg width="770" height="530" viewBox="0 0 770 530" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_3850_2143" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="770" height="530">
+<rect width="770" height="530" fill="#F5F6F7"/>
+</mask>
+<g mask="url(#mask0_3850_2143)">
+<circle cx="631.415" cy="506.89" r="232.329" transform="rotate(-90 631.415 506.89)" fill="#F5F6F7" stroke="white" stroke-width="3.74724"/>
+<circle cx="28.1016" cy="7.13859" r="158.883" transform="rotate(-90 28.1016 7.13859)" fill="#F5F6F7" stroke="white" stroke-width="3.74724"/>
+</g>
+</svg>

@@ -1,0 +1,156 @@
+{
+  "slug": "pomicell",
+  "seo": {
+    "title": "Pomicell | Spark Design Agency - UX/UI & Branding",
+    "description": "Pomicell is on a mission to revolutionize drug discovery and development with their AI-based platform that supports biotech and Pharma companies’ decision-making processes.",
+    "ogImage": null
+  },
+  "hero": {
+    "bgImage": "/images/646cf107dc649bf50588fa95_Layer_1-2.svg",
+    "bgAlt": "",
+    "logo": null,
+    "logoAlt": "",
+    "color": "#1D5303",
+    "heroBg": null,
+    "meta": [
+      {
+        "label": "TYPE",
+        "value": "Software Design, Saas , B2B"
+      },
+      {
+        "label": "CLIENT",
+        "value": "Pomicell"
+      },
+      {
+        "label": "DELIVERABLES",
+        "value": "Design Strategy, UX, UI , Product Design"
+      }
+    ],
+    "title": "Pomicell -discover the next generation of drugs and targets powered by AI",
+    "introHtml": "<p>Pomicell is on a mission to revolutionize drug discovery and development with their AI-based platform that supports biotech and Pharma companies’ decision-making processes. </p><p>Our challenge was to create an intuitive and innovative interface that would enable researchers to easily navigate and utilize the platform. To accomplish this, SPARK design agency worked closely with POMICELL to create a user-friendly and efficient software UI from scratch using nodes.</p><p>The result was a sleek and intuitive design that simplifies the researchers' most crucial R&amp;D decisions, expediting and optimizing the drug discovery process.</p>",
+    "pageBg": null
+  },
+  "blocks": [
+    {
+      "type": "frame",
+      "bg": "#f6f6f6",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/646b5ca43365ec0bf931013d_Pomicell_1.webp",
+          "alt": "",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "html": "<p>Creating a simple and intuitive website funnel</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "frame",
+      "bg": "#f6f6f6",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/thespark/video/upload/v1685623337/SPARK/Jun%201/pomicell/pomi_spark_updated_video_y0knt5.mp4?dl=0&raw=1&autoplay=1",
+          "poster": null
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "html": "<p>Pomicell’s Dashboard uses infographics to create simple representations of complex data sets.</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "frame",
+      "bg": "#e6f0f9",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/64720f6f1e618c702e099787_drug-Validation-1-1-.webp",
+          "alt": "",
+          "variant": "web",
+          "rounded": true,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "bg": "#e6f0f9",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/64720fa534ccbfd5771e1679_drug-Validation-2.webp",
+          "alt": "",
+          "variant": "web",
+          "rounded": true,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "html": "<p>We used a node system adopted from gaming platforms to create a simple and intuitive Interface for drug discovery and reporting</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "frame",
+      "bg": "#f6f6f6",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/64720fcb2daee6c4e0220f92_drug-Validation-3.webp",
+          "alt": "",
+          "variant": "web",
+          "rounded": true,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "html": "<p>Drug Comparison UI for comparing candidates</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "frame",
+      "bg": "#f6f6f6",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/647367c1ea07c60084874a92_pom_new.webp",
+          "alt": "Product design concept for a fintech platform, showcasing a user interface with a clean and modern",
+          "variant": "web",
+          "rounded": true,
+          "hidden": false
+        }
+      ]
+    }
+  ]
+}

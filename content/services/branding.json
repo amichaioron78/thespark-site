@@ -1,0 +1,38 @@
+{
+  "slug": "branding",
+  "seo": {
+    "title": "Branding | Spark Services",
+    "description": "Branding that Leaves a Lasting Impression.",
+    "ogImage": "/images/65db14459f6b400b380cfeca_Brand-Strategy.png"
+  },
+  "title": "Branding",
+  "subtitle": "Branding that Leaves a Lasting Impression.",
+  "introHtml": "",
+  "sections": [
+    {
+      "heading": "Brand Strategy",
+      "html": "<p>Crafting a visual identity that reflects your personality is key to effective positioning. </p><p>Our brand design process includes the creation of unified design elements: company logo, imagery, colors, fonts, icons, and the guidelines on how to use them.</p>",
+      "image": "/images/65db14459f6b400b380cfeca_Brand-Strategy.png",
+      "imageAlt": "Brand Strategy",
+      "imageFirst": false
+    },
+    {
+      "heading": "Brand Design",
+      "html": "<p>Our brand design process focuses on creating unified design elements that work seamlessly with your software product. We take a comprehensive approach to gain an understanding of your branding goals and create visually stunning yet functional and scalable design elements, such as logos, imagery, colors, fonts, and icons.</p>",
+      "image": "/images/65db144b121420dd8b1ff61f_Brand-Design.png",
+      "imageAlt": "Brand Design ",
+      "imageFirst": false
+    },
+    {
+      "heading": "",
+      "html": "",
+      "image": "branding.html",
+      "imageAlt": "",
+      "imageFirst": false
+    }
+  ],
+  "related": [
+    "saas-ux-audit",
+    "software-design"
+  ]
+}

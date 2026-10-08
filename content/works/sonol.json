@@ -1,0 +1,152 @@
+{
+  "slug": "sonol",
+  "seo": {
+    "title": "Sonol Evi | Spark Design Agency - UX/UI & Branding",
+    "description": "Sonol EVI provides solutions for Electric Vehicles in Israel. With many years of experience in electrical projects, operational innovation and a total commitment to service, Sonol EVI drives the Electric Vehicles revolution in Israel, providing a wide range of charging solutions for EVs and PHEVs.",
+    "ogImage": null
+  },
+  "hero": {
+    "bgImage": "/images/646cce0ef4e4e72068beefdc_sonol_bg.svg",
+    "bgAlt": "",
+    "logo": "/images/646ccdef7e5afbc65bc8b948_Sonol_EVI_lOGO_2-01.svg",
+    "logoAlt": "",
+    "color": "#063068",
+    "heroBg": null,
+    "meta": [
+      {
+        "label": "TYPE",
+        "value": "Marketing Materials, Logo Design"
+      },
+      {
+        "label": "CLIENT",
+        "value": "Sonol"
+      },
+      {
+        "label": "DELIVERABLES",
+        "value": "Marketing Materials, Logo, Brochure, One pager"
+      }
+    ],
+    "title": "Sonol -Electric Vehicle Solutions",
+    "introHtml": "<p>Sonol EVI provides solutions for Electric Vehicles in Israel. With many years of experience in electrical projects, operational innovation and a total commitment to service, Sonol EVI drives the Electric Vehicles revolution in Israel, providing a wide range of charging solutions for EVs and PHEVs.</p><p>Spark was hired to work on Sonol EVI’s branding  including Logo Design, product catalogs, presentations and images. our challenge was to create a new brand that resonates with the original mother brand.</p>",
+    "pageBg": "#f4f4f4"
+  },
+  "blocks": [
+    {
+      "type": "frame",
+      "bg": "#063068",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/645941a4f062216b1cfeabdb_Sonol-Evi-_-ui-design-1.webp",
+          "alt": "",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "html": "<p>Sonol EVI - Presentation</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "frame",
+      "bg": "#e8e8e8",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/645941f01911cdd21454e4e4_Sonol-Evi-_-ui-design-2.webp",
+          "alt": "",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "html": "<p>Sonol EVI Proposal</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "split",
+      "html": "<h2>Sonol EVI Presentation</h2><p>We were tasked with creating a product catalog that is related to the mother brand an yet looks comtemprary.</p>",
+      "images": [
+        {
+          "type": "image",
+          "src": "/images/64594259912b2d3db9d9ecfe_Sonol-Evi-_-ui-design-3.webp",
+          "alt": "",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ],
+      "imageFirst": false,
+      "wide": false
+    },
+    {
+      "type": "text",
+      "html": "<p>Marketing Presentation</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "frame",
+      "bg": "#e8e8e8",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/645943c5b68c632238114ccc_Asset-1-4-sonol-15-1.webp",
+          "alt": "",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "bg": "#063068",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/645942e15b0441e4bdcf3a1c_Sonol-Evi-_-ui-design-4.webp",
+          "alt": "",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "html": "<h2>Branding</h2><p>SPARK wanted to create an identity for EVI That is closely related with the mother brand that has a Flower logo (So Good flower) The EVI brand colors and logo design combines combines the Smiley + Electric plug icon to create positive impression while keeping a consistency with the mother brand.</p>",
+      "images": [
+        {
+          "type": "image",
+          "src": "/images/64594316e611a7e961ee41d6_Sonol-Evi-_-5.webp",
+          "alt": "",
+          "variant": "full",
+          "rounded": false,
+          "hidden": false
+        }
+      ],
+      "imageFirst": false,
+      "wide": false
+    }
+  ]
+}

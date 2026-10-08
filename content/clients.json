@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "suridata",
+    "name": "Suridata",
+    "order": 1,
+    "logo": "/images/643e9ccaa3447753c827cf92_Suritada_logo.svg"
+  },
+  {
+    "slug": "evrideo",
+    "name": "Evrideo",
+    "order": 1,
+    "logo": "/images/6800e8e57d055d4687c1a0a4_evrideo.png"
+  },
+  {
+    "slug": "nym",
+    "name": "Nym",
+    "order": 2,
+    "logo": "/images/643e9cd98c053749e544a274_Nym_logo.svg"
+  },
+  {
+    "slug": "trinty-audio",
+    "name": "Trinity Audio",
+    "order": 4,
+    "logo": "/images/643e9d102afc11f6119031de_Trinty_audio_logo.svg"
+  },
+  {
+    "slug": "direct-insurance",
+    "name": "Direct Insurance",
+    "order": 5,
+    "logo": "/images/643e9d22e622e9607304058c_Direct_insurance_logo.svg"
+  },
+  {
+    "slug": "ikea",
+    "name": "IKEA",
+    "order": 6,
+    "logo": "/images/6469a6510dcb19f92b85a714_IKEA.svg"
+  },
+  {
+    "slug": "breeze",
+    "name": "Breeze",
+    "order": 7,
+    "logo": "/images/6469a6662baad06f4fa28020_breeze.svg"
+  },
+  {
+    "slug": "sonol",
+    "name": "Sonol",
+    "order": 8,
+    "logo": "/images/6469a68595b1965bd915a63a_sonol.svg"
+  },
+  {
+    "slug": "uturn",
+    "name": "Uturn",
+    "order": 9,
+    "logo": "/images/6469a69529af2de5755efce3_uturn.svg"
+  },
+  {
+    "slug": "pomicell",
+    "name": "Pomicell",
+    "order": 10,
+    "logo": "/images/6469a6b009f96ad770d79d73_pomicell.svg"
+  },
+  {
+    "slug": "infocus",
+    "name": "Insfocus",
+    "order": 11,
+    "logo": "/images/6469a6c795b1965bd915cd88_infocus.svg"
+  },
+  {
+    "slug": "healtop",
+    "name": "Healtop",
+    "order": 12,
+    "logo": "/images/6469a6d84d5f570dd6b89f92_Healtop.svg"
+  },
+  {
+    "slug": "marketman",
+    "name": "MarketMan",
+    "order": 13,
+    "logo": "/images/6469a6e9f9dbac5e2c7e12a6_MarketMan.svg"
+  },
+  {
+    "slug": "rami-levy",
+    "name": "Rami Levy",
+    "order": 14,
+    "logo": "/images/6469a6fa66941c56a4754eb9_rami_levy.svg"
+  },
+  {
+    "slug": "bariks",
+    "name": "Bariks Health",
+    "order": 15,
+    "logo": "/images/646e092df4ea8c90fdbff81e_bariks-health-LTD-dark.svg"
+  },
+  {
+    "slug": "aeye",
+    "name": "AEYE",
+    "order": 16,
+    "logo": "/images/6469a7190852beb53502d100_AEYE.svg"
+  },
+  {
+    "slug": "inn-sphere",
+    "name": "Inn Sphere",
+    "order": 17,
+    "logo": "/images/6469a72c171b435c45bbfb6b_inn-sphere.svg"
+  },
+  {
+    "slug": "gear",
+    "name": "GEAR",
+    "order": 18,
+    "logo": "/images/6469a73a95b1965bd916063d_GEAR.svg"
+  }
+]

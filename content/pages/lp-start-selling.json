@@ -1,0 +1,81 @@
+{
+  "seo": {
+    "title": "SPARK | Design Agency Tel Aviv | Start Selling to your customers with within 90 days",
+    "description": "Start Selling to your customers with within 90 days, and save 50% of development cost.",
+    "ogImage": "/images/64459115e83daf2327465f12_spark.png"
+  },
+  "heroTitle": "Start Selling Your  Product in 90 Days",
+  "heroText": "Start Selling to your customers within 90 days, and save 50% of development costs.",
+  "trustedHeading": "Trusted by",
+  "logos": [
+    {
+      "src": "/images/65db2d49f3b95f713dfbeae8_suridata-white-logo.svg",
+      "alt": "suridata logo"
+    },
+    {
+      "src": "/images/65db3af61591364dfca13fa0_nym-logo.png",
+      "alt": "nym logo"
+    },
+    {
+      "src": "/images/65db3a8aba5cb98057f8f387_sonivie.png",
+      "alt": "sonivie logo"
+    },
+    {
+      "src": "/images/65db2f75a1ebd53e3c17b38c_identi.svg",
+      "alt": "Identity design concept for a fictional company, showcasing typographic logo variations and color p"
+    },
+    {
+      "src": "/images/65db2f6309d579631b452ca8_videocites-logo-white.svg",
+      "alt": "Logo of Videocites, a video production company, used as a case study by Spark, a Tel Aviv-based UX/"
+    },
+    {
+      "src": "/images/65db2f487eb940ee37310c01_ervideo-logo.svg",
+      "alt": "Logo of ErVideo, a B2B SaaS and AI-focused company, designed by Spark, Tel Aviv-based UX/UI and pro"
+    }
+  ],
+  "featuresHeading": "Save 50% on development costs",
+  "features": [
+    {
+      "icon": "/images/65db307c93ded3a744122481_feature-one-diamond.svg",
+      "title": "Refine Your Value Proposition",
+      "text": "Gain laser-sharp client insights for guaranteed satisfaction"
+    },
+    {
+      "icon": "/images/65db31360a532e0e8d0bb25d_feature-two-cup.svg",
+      "title": "Identify Opportunities",
+      "text": "Show your visionary product 9 months ahead of time"
+    }
+  ],
+  "stepsHeading": "4 Steps to Reaching Your First Clients",
+  "steps": [
+    {
+      "heading": "01. Position Yourself for Victory",
+      "html": "<p>Position your brand in the competitive landscape for success! Unveil rival strategies and benchmark your performance with Spark's powerful insights to gain a decisive edge.</p>",
+      "image": "/images/65db35a5121420dd8b2e6dd1_spark-lp-1.webp",
+      "imageAlt": "Position Yourself for Victory",
+      "imageFirst": false
+    },
+    {
+      "heading": "02. Forge a Winning Product Now!",
+      "html": "<p>Engage Users Now! Spark prototypes ignite user feedback in 90 days, eliminating 85% of usability issues before launch. Align product requirements with real needs, slashing development costs by 50%.</p>",
+      "image": "/images/65db35fda1ebd53e3c1a96b4_spark-lp-2.png",
+      "imageAlt": "Forge a Winning Product Now!",
+      "imageFirst": false
+    },
+    {
+      "heading": "03. Convert Prospects in 90 Days",
+      "html": "<p>Captivate customers with hyper-realistic prototypes, applying feedback to fine-tune your product. Reach a market-dominating MVP in just 12 months, staying on budget and on schedule.</p>",
+      "image": "/images/65db3654fc59023f29554f9e_spark-lp-3.png",
+      "imageAlt": "Convert Prospects in 90 Days",
+      "imageFirst": false
+    },
+    {
+      "heading": "04. Pre-Sell Your Products",
+      "html": "<p>Close Deals Before Launch: Sell  your vision with compelling demos, securing pre-launch partnerships and funding. Minimize risk and maximize impact by entering the market fully armed.</p>",
+      "image": "/images/65db36b2d1020a8f3a29609a_spark-lp-4.png",
+      "imageAlt": "Pre-Sell Your Products",
+      "imageFirst": false
+    }
+  ],
+  "ctaHeading": "Check how we can help you sell your products within 90 days and save 50% on development costs"
+}

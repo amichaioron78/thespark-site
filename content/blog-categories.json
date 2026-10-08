@@ -1,0 +1,6 @@
+[
+ {"slug":"main","name":"All Articles","order":0},
+ {"slug":"design-process","name":"Design process","order":1},
+ {"slug":"design-for-business","name":"Design for business","order":2},
+ {"slug":"design-trends","name":"Design trends","order":3}
+]

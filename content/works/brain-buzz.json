@@ -1,0 +1,354 @@
+{
+  "slug": "brain-buzz",
+  "seo": {
+    "title": "Brain Buzz | Spark Design Agency - UX/UI & Branding",
+    "description": null,
+    "ogImage": null
+  },
+  "hero": {
+    "bgImage": "/images/6459110c4a9b737484ce8926_Brain-Buzz-cover.webp",
+    "bgAlt": "",
+    "logo": null,
+    "logoAlt": "",
+    "color": "#1D5303",
+    "heroBg": null,
+    "meta": [
+      {
+        "label": "TYPE",
+        "value": "Game, Mobile App"
+      },
+      {
+        "label": "CLIENT",
+        "value": "Mindkick"
+      },
+      {
+        "label": "DELIVERABLES",
+        "value": "Game Design, UX, UI, Wire-frames, Design Strategy, Branding"
+      }
+    ],
+    "title": "BuzzGames - A social gaming platform with hundreds of casual games",
+    "introHtml": "<p>Buzz games has 200,000 users, for the them of the brand and the we used a combination of illustrated robots and falt UI  that gives a futuristic and technological feel to the platform, while the flat design adds simplicity and elegance to the overall look. The illustrations of different robots also add a playful and fun element, making the gaming experience on BuzzGames more enjoyable and interactive. The combination of these elements results in a visually appealing and user-friendly design that is sure to attract and retain users.</p>",
+    "pageBg": "#fffcf8"
+  },
+  "blocks": [
+    {
+      "type": "frame",
+      "bg": "#fcdadb",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/6459117290dd7e867e3dae80_Brain-Buzz-mobile-1.webp",
+          "alt": "",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "html": "<h2>Game Art</h2><p>For Buzz Games, SPARK designed and developed a flat robotic universe theme using basic shapes. The robots were specifically designed to enhance user experience, creating a more pleasurable and delightful gaming environment.</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#a26eaf",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/645910a76647ecd9f346b61a_Brain-Buzz-mobile-2.webp",
+              "alt": "",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": false,
+      "wide": false
+    },
+    {
+      "type": "split",
+      "html": "<h2>Game Design System</h2><p>We developed a simple design system for Buzz Games that enabled rapid development of new games. Each game was designed using basic shapes and a pleasing flat color theme.</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#fcdadb",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/645910a7b836f670e6badb31_Brain-Buzz-mobile-3.webp",
+              "alt": "",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "bg": "#fcdadb",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/6459109f44eddeb7fafea526_Brain-Buzz-mobile-4.webp",
+              "alt": "",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": true,
+      "wide": true
+    },
+    {
+      "type": "text",
+      "html": "<p>We used a dark theme with neon highlight to signify that this product is analytical and from the future.</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "image",
+      "src": "/images/645910a8b68c63653b0da210_Brain-Buzz-mobile-5.webp",
+      "alt": "",
+      "variant": "full",
+      "rounded": false,
+      "hidden": false
+    },
+    {
+      "type": "text",
+      "html": "<p>The Flat UI Universe of Buzz Games</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "gallery",
+      "columns": 3,
+      "children": [
+        {
+          "type": "frame",
+          "bg": "#aadfe7",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/64736535bb4de7eb23cd7ff0_brain_buzz_mobile_1.webp",
+              "alt": "Mobile app concept featuring a brain-inspired interface with vibrant colors and energetic patterns.",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "bg": "#aadfe7",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/6473653d821a39916e7c1fff_brain_buzz_mobile_2.webp",
+              "alt": "Product designers brainstorming innovative mobile solutions in a collaborative workspace.",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "bg": "#aadfe7",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/64736544c1b5e5f604137ae8_brain_buzz_mobile_3.webp",
+              "alt": "UX designers brainstorming innovative mobile app concepts at Spark, a Tel Aviv-based product design",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "html": "<p>Monetizing Buzz Games with In-app purchases</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "split",
+      "html": "<h2>DAily Engagement</h2><p>Buzz Games' tournaments are designed to improve daily engagement by using the Hook methodology to create FOMO (fear of missing out) elements. The tournaments are scheduled at specific times and the leaderboards are constantly updated, creating a sense of urgency and competition among players.</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#a26eaf",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/645910a74a9b73f7f2ce8195_Brain-Buzz-mobile-7.webp",
+              "alt": "",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": true,
+      "wide": false
+    },
+    {
+      "type": "split",
+      "html": "<p>This encourages players to log in daily and play to improve their standings, leading to increased engagement and retention. The use of FOMO elements in the tournament design has been a successful strategy for Buzz Games, with players returning daily to participate and increase their chances of winning.</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#a26eaf",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/645910a71070a0bf45a453c4_Brain-Buzz-mobile-8.webp",
+              "alt": "",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": false,
+      "wide": false
+    },
+    {
+      "type": "text",
+      "html": "<p>Customizing your player with In-app Purchases</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "gallery",
+      "columns": 3,
+      "children": [
+        {
+          "type": "frame",
+          "bg": "#aadfe7",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/6473656ea8934fab32bbdf70_brain_buzz_mobile_4.webp",
+              "alt": "Conceptual illustration of a mobile app's neural network in action, with swirling data and insights",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "bg": "#aadfe7",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/6473657b077edbd653c910ea_brain_buzz_mobile_5.webp",
+              "alt": "Mobile app concept with vibrant, interconnected brain cells and a buzzing energy.",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "bg": "#aadfe7",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/6473658b958c39571d9c4f7d_brain_buzz_mobile_6.webp",
+              "alt": "Conceptual illustration of a brain with mobile devices integrated into its neural network, symboliz",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "html": "<p>An effective dashboard gives a birds eye view of the current status and drives action</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "split",
+      "html": "<h2>Monitizing buzz games</h2><p>Buzz Games drives in-app purchases by providing users with a currency system of gems and points, which can be earned by playing the games or purchased with real money. These gems and points can then be used to unlock new levels, purchase power-ups, and other in-game items that enhance the user experience. This creates a sense of progress and reward, encouraging users to keep playing and making purchases to improve their gameplay..</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#fcdadb",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/64591381dff2dc3df9e1dd8d_Brain-Buzz-mobile-11.webp",
+              "alt": "",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "bg": "#fcdadb",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/6459138b4501f687e9654b32_Brain-Buzz-mobile-12.webp",
+              "alt": "",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": true,
+      "wide": true
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "slug": "insfocus",
+  "seo": {
+    "title": "Insfocus | Spark Design Agency - UX/UI & Branding",
+    "description": "InsFocus utilized their extensive field experience and pre-built data model to develop a new methodology for structured insurance BI.",
+    "ogImage": null
+  },
+  "hero": {
+    "bgImage": "/images/6461f707a786a6ebac60337b_Insfocus---cover.webp",
+    "bgAlt": "Insfocus website design. ux, ui",
+    "logo": null,
+    "logoAlt": "",
+    "color": "#403f6b",
+    "heroBg": null,
+    "meta": [
+      {
+        "label": "TYPE",
+        "value": "Website Design"
+      },
+      {
+        "label": "CLIENT",
+        "value": "Insfocus"
+      },
+      {
+        "label": "DELIVERABLES",
+        "value": "Website Design, Illustrations, UX, UI"
+      }
+    ],
+    "title": "Insfocus - leading provider of business intelligence software",
+    "introHtml": "<p>InsFocus utilized their extensive field experience and pre-built data model to develop a new methodology for structured insurance BI. </p><p>To better communicate their product and brand, they hired SPARK to rebrand their website and create a more engaging user experience. </p><p>By redesigning the brand focusing on UX writing to improve conversion and reduce information clutter. By creating a lean and concise website, we where able to provide a more user-friendly experience that helps potential customers better understand the value of their product.</p>",
+    "pageBg": null
+  },
+  "blocks": [
+    {
+      "type": "frame",
+      "bg": "#f2f2f2",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/6461f717363076eb17fe2608_Insfocus---web-dessign---1.webp",
+          "alt": "web design main page hero section",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "html": "<h2>Graphic Language</h2><p>InsFocus's graphics language, inspired by infographics, uses three archetype shapes to communicate complex information in a simple way. </p><p>By utilizing this consistent visual language across their brand and product, InsFocus creates a more engaging user experience that helps customers understand the value of their product.</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#f2f2f2",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/6461f8d74bc9d89c2d375a4f_Insfocus---mobile---2.webp",
+              "alt": "Mobile web design",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": false,
+      "wide": false
+    },
+    {
+      "type": "split",
+      "html": "",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#f2f2f2",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/6461f972c700566da55a4c0f_Insfocus---web-dessign---3.webp",
+              "alt": "web design dashboard",
+              "variant": "web",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "bg": "#f2f2f2",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/6461f993a323efa26e5e9730_Insfocus---web-dessign---4.webp",
+              "alt": "Mobile web design features",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": true,
+      "wide": true
+    },
+    {
+      "type": "text",
+      "html": "<p>SPARK used UX writing methods to break down long content into short, readable sections on InsFocus's website</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "frame",
+      "bg": "#f2f2f2",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/thespark/video/upload/v1685617912/SPARK/Jun%201/Insfocus/first_page_m6mkze.mp4?dl=0&raw=1&autoplay=1",
+          "poster": null
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "bg": "#f2f2f2",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/6461fbce59b0c9fe0cbd5b9c_Insfocus---web-dessign---6.webp",
+          "alt": "Desktop web design homepage",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "html": "<h2>Responsive Design</h2><p>InsFocus was designed to be mobile-friendly and responsive, ensuring that users can engage with the product on both desktop and mobile devices without sacrificing the quality of their experience</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#686dc4",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/6461fbe66340d1859a64d103_Insfocus---web-dessign---7.webp",
+              "alt": "responsive web design mobile screenshot",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": false,
+      "wide": false
+    },
+    {
+      "type": "split",
+      "html": "<h2>Mobile Friendly and Delightful</h2><p>InsFocus designed takes very complex topics and translates them into fun and enjoyable designs</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#faf79a",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/6461fc30736acb25c2db6cd9_Insfocus---web-dessign---8.webp",
+              "alt": "responsive web design mobile homepage screenshot",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": true,
+      "wide": false
+    },
+    {
+      "type": "text",
+      "html": "<p>Graphic elements</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "frame",
+      "bg": "#def0fe",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/6461fc704bc9d89c2d3b26c4_Insfocus---web-dessign---9.webp",
+          "alt": "insfocus graphic elements",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "html": "<p>Flat UI infographics</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "split",
+      "html": "",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#f2f2f2",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/6461fcd8a323efa26e61cd63_Insfocus---web-dessign---10.webp",
+              "alt": "insfocus Flat ui infographic",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/thespark/video/upload/v1684843592/SPARK/Insfocus/video_02_xlqpau.mp4?dl=0&raw=1&autoplay=1",
+              "poster": null
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "bg": "#f2f2f2",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/thespark/video/upload/v1687253656/SPARK/Jun%201/Insfocus/insfocus_analytics_and_reporting_updated_video_june_23_tsybup.mp4?dl=0&raw=1&autoplay=1",
+              "poster": null
+            }
+          ]
+        }
+      ],
+      "imageFirst": true,
+      "wide": true
+    },
+    {
+      "type": "frame",
+      "bg": "#f2f2f2",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/thespark/video/upload/v1685617938/SPARK/Jun%201/Insfocus/about-_sq8pyw.mp4?dl=0&raw=1&autoplay=1",
+          "poster": null
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "html": "<h2>Social proof</h2><p>To enhance InsFocus's social proof, we showcased inspiring metrics about the company's contributions to their clients.</p><p>By highlighting these metrics, we were able to provide potential customers with tangible evidence of the value of InsFocus's product, ultimately leading to improved conversion rates.</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#faf79a",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/6461fe4d73d9bb0ef9353385_Insfocus---web-dessign---12.webp",
+              "alt": "insfocus mobile about webpage screenshot",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": false,
+      "wide": false
+    },
+    {
+      "type": "split",
+      "html": "<h2>Combining Black and white elements</h2><p>To enhance the simple flat color pallet we used black and white images for the team section.</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#686dc4",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/6461fe70085ca33e2d56a26b_Insfocus---web-dessign---13.webp",
+              "alt": "insfocus mobile team webpage screenshot",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": true,
+      "wide": false
+    },
+    {
+      "type": "split",
+      "html": "",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#f2f2f2",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/thespark/video/upload/v1685617928/SPARK/Jun%201/Insfocus/article_gryxdu.mp4?dl=0&raw=1&autoplay=1",
+              "poster": null
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "bg": "#f2f2f2",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/6461fe88f59bb937c7090917_Insfocus---web-dessign---15.webp",
+              "alt": "insfocus mobile blog webpage screenshot",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": true,
+      "wide": true
+    },
+    {
+      "type": "text",
+      "html": "<p>To improve SEO we combined a blog post section for insfocus</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "frame",
+      "bg": "#def0fe",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/6461fe9c600af0cbd05651dc_Insfocus---web-dessign---16.webp",
+          "alt": "insfocus mobile blog pagelist webpage screenshot",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "html": "<h2>Interaction</h2><p>InsFocus's old website had issues with form submission, as the form was too small and hard to read, and users were unsure if their messages had been submitted. </p><p>To address this, we increased the font size and aligned the message to the center of the form to improve eye contact and make it easier for users to understand if their messages were successfully submitted. </p><p>This approach helped to improve user engagement and satisfaction, ultimately leading to better conversion rates.</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#f2f2f2",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/thespark/video/upload/v1685617912/SPARK/Jun%201/Insfocus/contact_form_eiojol.mp4?dl=0&raw=1&autoplay=1",
+              "poster": null
+            }
+          ]
+        }
+      ],
+      "imageFirst": false,
+      "wide": false
+    }
+  ]
+}

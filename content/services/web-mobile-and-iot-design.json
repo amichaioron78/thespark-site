@@ -1,0 +1,38 @@
+{
+  "slug": "web-mobile-and-iot-design",
+  "seo": {
+    "title": "Web, Mobile and IOT Design | Spark Services",
+    "description": "Digital Designs that Keep you ahead of the curve.",
+    "ogImage": "/images/65db1374ba5cb98057e70145_Digital-Design---web-design-1-1-.png"
+  },
+  "title": "Web, Mobile and IOT Design",
+  "subtitle": "Digital Designs that Keep you ahead of the curve.",
+  "introHtml": "",
+  "sections": [
+    {
+      "heading": "WEB DESIGN",
+      "html": "<p>A company's website is the first impression customers have of the business. At Spark, we specialize in crafting visually stunning and highly functional websites that engage and delight users. Our focus is on delivering exceptional results that drive engagement and conversions. Let us help you create a standout digital presence that attracts and retains customers.</p>",
+      "image": "/images/65db1374ba5cb98057e70145_Digital-Design---web-design-1-1-.png",
+      "imageAlt": "WEB DESIGN",
+      "imageFirst": false
+    },
+    {
+      "heading": "APP Design",
+      "html": "<p>Designing a mobile app is essential for businesses today. We have experience working with gaming, B2B, B2C, and IoT apps.Our focus is on increasing your reach and improving retention rates by keeping customers engaged on-the-go. Let our team help you develop a mobile app that stands out in today's competitive market and drives success for your business.</p>",
+      "image": "/images/65db137c0bca11cd03251ed1_Digital-Design---APP-Design-2.png",
+      "imageAlt": "APP Design",
+      "imageFirst": false
+    },
+    {
+      "heading": "IOT Devices",
+      "html": "<p>In today's world of connectivity, UX design for IoT devices is crucial. Whether you're in agriculture, medical devices, or home services, you need a team that understands the relationship between graphic and industrial design. Our team has you covered, ensuring that your product is not only visually appealing but also intuitive to use.</p>",
+      "image": "/images/65db1382de84a8bb56560df6_Digital-Design---IOT.png",
+      "imageAlt": "IOT Devices",
+      "imageFirst": false
+    }
+  ],
+  "related": [
+    "saas-ux-audit",
+    "software-design"
+  ]
+}

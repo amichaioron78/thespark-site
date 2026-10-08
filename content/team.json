@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "elena-rasskazov",
+    "name": "Elena Rasskazov",
+    "role": "UX / UI, product designer",
+    "order": 1,
+    "image": "/images/644163a0a620840c98d62da7_Elena-Rasskazov.webp"
+  },
+  {
+    "slug": "bnaya-peretz",
+    "name": "Bnaya Peretz",
+    "role": "Full stack developer",
+    "order": 2,
+    "image": "/images/644163b2a3a4bb98d4809917_Bnaya-Peretz.webp"
+  },
+  {
+    "slug": "ezra-siton",
+    "name": "Ezra Siton",
+    "role": "Developer",
+    "order": 3,
+    "image": "/images/6a9d49eec1a2b5123afdf23c_ezra-siton-.jpeg"
+  },
+  {
+    "slug": "daniel-dim",
+    "name": "Daniel Dim",
+    "role": "Illustrator",
+    "order": 4,
+    "image": "/images/644163fba101a2f35a207c54_Daniel-Dim.webp"
+  },
+  {
+    "slug": "noam-sahar-maman",
+    "name": "Noam Sahar Maman",
+    "role": "UX / UI designer",
+    "order": 5,
+    "image": "/images/64416410054e8a382c605a42_Noam-Sahar-Maman.webp"
+  },
+  {
+    "slug": "ido-niv",
+    "name": "Ido Niv",
+    "role": "Back End Development",
+    "order": 6,
+    "image": "/images/64416423e743d28c2e9ef6e2_Ido-Niv.webp"
+  },
+  {
+    "slug": "gili-shtern",
+    "name": "Gili Shtern",
+    "role": "Front End",
+    "order": 7,
+    "image": "/images/6441643304f5352f36a127fb_Gili-Shtern.webp"
+  }
+]

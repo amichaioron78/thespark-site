@@ -1,0 +1,38 @@
+{
+  "slug": "software-design",
+  "seo": {
+    "title": "Software Product Design & UX/UI | Spark Services",
+    "description": "UX strategy, research, prototyping and scalable UI systems for SaaS and complex software",
+    "ogImage": "/images/65db11f1189e859658149703_Product-design--Research-Analysis_1-1-.png"
+  },
+  "title": "Software Product Design & UX/UI",
+  "subtitle": "UX strategy, research, prototyping and scalable UI systems for SaaS and complex software",
+  "introHtml": "",
+  "sections": [
+    {
+      "heading": "Product Strategy, UX Research & Analysis",
+      "html": "<p>Every solution starts with a problem. at spark we conduct perpetual research. We develop our product architecture to match the business strategy and value proposition and  align them with products and services.</p><p>We define our positioning and strategy to stay ahead of competitors. We provide rapid develop the product towards the market needs.</p>",
+      "image": "/images/65db11f1189e859658149703_Product-design--Research-Analysis_1-1-.png",
+      "imageAlt": "Product Strategy, UX Research & Analysis",
+      "imageFirst": false
+    },
+    {
+      "heading": "UX Design, User Flows & Interactive Prototyping",
+      "html": "<p>At Spark, we start UX design with high-fidelity wireframes, skipping the low-fidelity stage for a faster and more efficient process. Our collaborative approach ensures designs that exceed user expectations and meet your objectives.</p><p>We consider customer journeys, user flows, and navigation, tailored to your business goals and strategy.</p>",
+      "image": "/images/65db11778cd82161b05ed996_Product-design---UX-Design-prototyping-2.png",
+      "imageAlt": "UX Design, User Flows & Interactive Prototyping",
+      "imageFirst": false
+    },
+    {
+      "heading": "UI Design Systems for Scalable Products",
+      "html": "<p>Our team dives deep into your brand identity, either building upon your existing branding or creating a new one from scratch. </p><p>We create a style guide and work tirelessly to ensure that every design element aligns with your brand and resonates with your target audience.</p>",
+      "image": "/images/65db1184bffdd2638a064b6f_Product-design---UI-Design-System-3.png",
+      "imageAlt": "UI Design Systems for Scalable Products",
+      "imageFirst": false
+    }
+  ],
+  "related": [
+    "saas-ux-audit",
+    "ai-product-design"
+  ]
+}

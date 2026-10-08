@@ -1,0 +1,315 @@
+[
+  {
+    "slug": "evrideo",
+    "name": "Evrideo",
+    "url": "/works/evrideo",
+    "category": "Cloud based Broadcasting",
+    "categories": [
+      "saas",
+      "ai"
+    ],
+    "featuredMenu": true,
+    "featuredHome": true,
+    "thumb": "/images/67f7c5de28f62b90adc98c83_evrideo-spark.png",
+    "menuImage": "/images/67f7c60fc53eaa2b6a5aa40e_image.png"
+  },
+  {
+    "slug": "hermes",
+    "name": "Hermes",
+    "url": "/works/hermes",
+    "category": "Software design",
+    "categories": [
+      "medical",
+      "software-design",
+      "saas"
+    ],
+    "featuredMenu": false,
+    "featuredHome": false,
+    "thumb": "/images/6640b1690acabc7b39bcdcc5_Hermes_1_webp.webp",
+    "menuImage": "/images/6640b119725564404be35d99_Hermes_2.png"
+  },
+  {
+    "slug": "aeye",
+    "name": "Aeye",
+    "url": "/works/aeye",
+    "category": "Websites",
+    "categories": [
+      "medical",
+      "software-design",
+      "ai",
+      "saas"
+    ],
+    "featuredMenu": false,
+    "featuredHome": false,
+    "thumb": "/images/6640b0b85983c941e21e667f_Aeye_1_X1.png",
+    "menuImage": "/images/6640b0b85983c941e21e667f_Aeye_1_X1.png"
+  },
+  {
+    "slug": "qsee-carbon",
+    "name": "Qsee carbon",
+    "url": "/works/qsee-carbon",
+    "category": "Web Design",
+    "categories": [
+      "software-design",
+      "branding",
+      "saas"
+    ],
+    "featuredMenu": false,
+    "featuredHome": false,
+    "thumb": "/images/6640b05bf51f13175e405f9e_Qsee-carbon_1.png",
+    "menuImage": "/images/6640b05bf51f13175e405f9e_Qsee-carbon_1.png"
+  },
+  {
+    "slug": "identimedical",
+    "name": "Identimedical",
+    "url": "/works/identimedical",
+    "category": "Medical",
+    "categories": [
+      "medical",
+      "applications",
+      "software-design",
+      "saas"
+    ],
+    "featuredMenu": true,
+    "featuredHome": true,
+    "thumb": "/images/668fde738eb8481e2a629d54_Mask-group-3-.jpg",
+    "menuImage": "/images/6640b03036c82763c5545473_dentimedical_6.webp"
+  },
+  {
+    "slug": "uturn",
+    "name": "UTURN",
+    "url": "/works/uturn",
+    "category": "Software Design, Website",
+    "categories": [
+      "software-design",
+      "applications",
+      "websites",
+      "branding",
+      "e-commerce-branding",
+      "saas"
+    ],
+    "featuredMenu": true,
+    "featuredHome": false,
+    "thumb": "/images/64736170821a39916e79502c_uturn_3.svg",
+    "menuImage": "/images/64df28d38abd255d073a23f3_uturn_mega_menu.webp"
+  },
+  {
+    "slug": "pomicell",
+    "name": "Pomicell",
+    "url": "/works/pomicell",
+    "category": "Software Design",
+    "categories": [
+      "software-design",
+      "ai",
+      "medical",
+      "saas"
+    ],
+    "featuredMenu": false,
+    "featuredHome": false,
+    "thumb": "/images/64c8a5e9215cec2619cd9ae6_Pomicell.png",
+    "menuImage": null
+  },
+  {
+    "slug": "suridata",
+    "name": "Suridata",
+    "url": "/works/suridata",
+    "category": "Software Design, Website",
+    "categories": [
+      "software-design",
+      "websites",
+      "branding",
+      "ai",
+      "cyber-security",
+      "saas"
+    ],
+    "featuredMenu": false,
+    "featuredHome": false,
+    "thumb": "/images/64c8a603c9d253ca2adde9e7_Suridata.png",
+    "menuImage": null
+  },
+  {
+    "slug": "deepkeep",
+    "name": "Deepkeep",
+    "url": "/works/deepkeep",
+    "category": "Software Design",
+    "categories": [
+      "software-design",
+      "branding",
+      "ai",
+      "cyber-security",
+      "saas"
+    ],
+    "featuredMenu": false,
+    "featuredHome": false,
+    "thumb": "/images/64c8a5f43f6554a837cc4b01_Deepkeep.png",
+    "menuImage": "/images/648eeafba137748e82294a1c_insfocus_2.png"
+  },
+  {
+    "slug": "healtop",
+    "name": "Healtop",
+    "url": "/works/healtop",
+    "category": "Website",
+    "categories": [
+      "websites",
+      "e-commerce-branding"
+    ],
+    "featuredMenu": false,
+    "featuredHome": false,
+    "thumb": "/images/6462042698f338eb3fec55f1_healtop-cover.jpg",
+    "menuImage": null
+  },
+  {
+    "slug": "insfocus",
+    "name": "Insfocus",
+    "url": "/works/insfocus",
+    "category": "Software Design, Website",
+    "categories": [
+      "software-design",
+      "websites",
+      "branding",
+      "fintech"
+    ],
+    "featuredMenu": false,
+    "featuredHome": false,
+    "thumb": "/images/64620019e297f1d6124c9b7f_Insfocus---cover.png",
+    "menuImage": "/images/648eee1282964bd201185154_insfocus.webp"
+  },
+  {
+    "slug": "sonol",
+    "name": "Sonol",
+    "url": "/works/sonol",
+    "category": "Branding",
+    "categories": [
+      "branding"
+    ],
+    "featuredMenu": false,
+    "featuredHome": false,
+    "thumb": "/images/668fddd96dbfeb3e41fc6429_Mask-group-2-.jpg",
+    "menuImage": null
+  },
+  {
+    "slug": "innovesta",
+    "name": "Innovesta",
+    "url": "/works/innovesta",
+    "category": "Software Design",
+    "categories": [
+      "software-design",
+      "branding",
+      "ai",
+      "fintech",
+      "saas"
+    ],
+    "featuredMenu": false,
+    "featuredHome": false,
+    "thumb": "/images/64c8a63ad30337f00c00bd7c_Innovesta.png",
+    "menuImage": null
+  },
+  {
+    "slug": "brain-buzz",
+    "name": "Brain Buzz",
+    "url": "/works/brain-buzz",
+    "category": "Mobile Application",
+    "categories": [
+      "applications",
+      "branding"
+    ],
+    "featuredMenu": false,
+    "featuredHome": false,
+    "thumb": "/images/6459156cfa09214f9259c13c_Brain-Buzz-cover_webp.webp",
+    "menuImage": null
+  },
+  {
+    "slug": "nym",
+    "name": "NYM",
+    "url": "/works/nym",
+    "category": "Software Design",
+    "categories": [
+      "software-design",
+      "ai",
+      "medical",
+      "saas"
+    ],
+    "featuredMenu": false,
+    "featuredHome": false,
+    "thumb": "/images/647892c9f8143d8b5a2dd06c_nym_cover.webp",
+    "menuImage": null
+  },
+  {
+    "slug": "virdix",
+    "name": "Virdix",
+    "url": "/works/virdix",
+    "category": "Software Design",
+    "categories": [
+      "software-design",
+      "applications",
+      "agritech",
+      "ai",
+      "saas"
+    ],
+    "featuredMenu": false,
+    "featuredHome": false,
+    "thumb": "/images/64736a401b9079853dbba5c1_vir_new_hero_width_899_compress.webp",
+    "menuImage": null
+  },
+  {
+    "slug": "breeze",
+    "name": "Breeze",
+    "url": "/works/breeze",
+    "category": "Software Design",
+    "categories": [
+      "websites",
+      "branding",
+      "software-design",
+      "fintech",
+      "saas"
+    ],
+    "featuredMenu": false,
+    "featuredHome": false,
+    "thumb": "/images/64403375896f1f7b8548030c_Breeze.webp",
+    "menuImage": null
+  },
+  {
+    "slug": "bariks",
+    "name": "Bariks",
+    "url": "/works/bariks",
+    "category": "Software Design",
+    "categories": [
+      "software-design",
+      "medical"
+    ],
+    "featuredMenu": false,
+    "featuredHome": false,
+    "thumb": "/images/64403005c3ee3e397dac1f92_Bariks.webp",
+    "menuImage": null
+  },
+  {
+    "slug": "trinity-audio",
+    "name": "Trinity Audio",
+    "url": "/works/trinity-audio",
+    "category": "Software Design",
+    "categories": [
+      "software-design"
+    ],
+    "featuredMenu": false,
+    "featuredHome": false,
+    "thumb": "/images/64402c8baf80e6e9ecc6ce35_Trinity-Audio.webp",
+    "menuImage": null
+  },
+  {
+    "slug": "marketman",
+    "name": "MarketMan",
+    "url": "/works/marketman",
+    "category": "Mobile Application, Branding",
+    "categories": [
+      "applications",
+      "branding",
+      "e-commerce-branding",
+      "fintech",
+      "saas"
+    ],
+    "featuredMenu": false,
+    "featuredHome": false,
+    "thumb": "/images/64c8a6464ad388369ac283cf_Market-Man.png",
+    "menuImage": null
+  }
+]

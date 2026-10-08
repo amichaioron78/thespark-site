@@ -1,0 +1,129 @@
+{
+  "slug": "virdix",
+  "seo": {
+    "title": "Virdix | Spark Design Agency - UX/UI & Branding",
+    "description": null,
+    "ogImage": null
+  },
+  "hero": {
+    "bgImage": "/images/64746c624176cab6d2169f9b_Viridix_cover.webp",
+    "bgAlt": "Viridix Software solution",
+    "logo": null,
+    "logoAlt": "",
+    "color": "#3a271d",
+    "heroBg": null,
+    "meta": [
+      {
+        "label": "TYPE",
+        "value": "Software Design"
+      },
+      {
+        "label": "CLIENT",
+        "value": "Viridix"
+      },
+      {
+        "label": "DELIVERABLES",
+        "value": "Product Design, UX, UI, Wire-frames, Design Strategy, Branding"
+      }
+    ],
+    "title": "Viridix - Boost your farming efficiency with",
+    "introHtml": "<p>As SPARK design agency, we partnered with Viridix, an agritech company, in 2022 to develop a user-centered precision irrigation system powered by real-time soil moisture sensors and optimized for UX/UI. Our innovative solution helps growers save water, increase crop yields, and improve profits.</p>",
+    "pageBg": null
+  },
+  "blocks": [
+    {
+      "type": "frame",
+      "bg": "#f2f2f2",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/6458ef81634484eac198e0fc_Virdix_dashboard_1.webp",
+          "alt": "Viridix Software solution",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "html": "<h2>Creating EFFECTIVE DASHBOARDS</h2><p>Viridix Dashboards are designed to provide farmers with real-time, actionable data about crop health, weather changes, and a comprehensive overview of what's happening below ground level, where the naked eye can't see. </p><p>Our focus is on delivering insights that enable farmers to make informed decisions about irrigation, fertilization, and crop management, ultimately optimizing their agricultural processes for maximum yield and profitability.</p>",
+      "images": [
+        {
+          "type": "image",
+          "src": "/images/6458f0171ea313c5d82a46fc_Virdix_ui_2.webp",
+          "alt": "Viridix Software solution",
+          "variant": "full",
+          "rounded": false,
+          "hidden": false
+        }
+      ],
+      "imageFirst": false,
+      "wide": false
+    },
+    {
+      "type": "split",
+      "html": "<h2>Mobile APP</h2><p>SPARK design agency worked with Viridix to develop an app for daily farm management. The main screen provides a quick overview of field status using a Traffic Light system, empowering farmers to take immediate action on crop irrigation changes. Our user-centric design ensures farmers stay informed and proactive for optimal crop health and yield.</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#ebe3da",
+          "bgImage": "/images/6458f0cdf0622124dcf9730b_Virdix_bg.webp",
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/6458f082f9834a4a2bd7a078_Virdix_mobile_3.webp",
+              "alt": "Viridix App By Spark",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": true,
+      "wide": false
+    },
+    {
+      "type": "frame",
+      "bg": "#f2f2f2",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/6458f10dc71f6bf4c2163061_Virdix_dashboard_4.webp",
+          "alt": "Viridix Dashboard by spark",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "html": "<p>An effective dashboard gives a birds eye view of the current status and drives action</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "image",
+      "src": "/images/6458f19beaab7f017ade8067_Virdix_ui_5.webp",
+      "alt": "Viridix Mobile app by spark",
+      "variant": "full",
+      "rounded": false,
+      "hidden": false
+    },
+    {
+      "type": "text",
+      "html": "<p>SPARK designed the Viridix mobile app to keep users updated and provide concise,  crop health, weather changes, and other relevant information using  rich data cards</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    }
+  ]
+}

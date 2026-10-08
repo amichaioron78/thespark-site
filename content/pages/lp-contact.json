@@ -1,0 +1,41 @@
+{
+  "seo": {
+    "title": "Contact us | Spark Design Agency - UX/UI & Branding",
+    "description": null,
+    "ogImage": null
+  },
+  "title": "Start Selling Your Product in 90 Days and save 50% on development",
+  "fields": [
+    {
+      "name": "Full-Name",
+      "type": "text",
+      "placeholder": "Full name*",
+      "required": true
+    },
+    {
+      "name": "Company",
+      "type": "text",
+      "placeholder": "Company / organization",
+      "required": false
+    },
+    {
+      "name": "email",
+      "type": "email",
+      "placeholder": "Email*",
+      "required": true
+    },
+    {
+      "name": "Phone",
+      "type": "tel",
+      "placeholder": "Phone number*",
+      "required": true
+    },
+    {
+      "name": "Message",
+      "type": "textarea",
+      "placeholder": "Message",
+      "required": false
+    }
+  ],
+  "successMessage": "Thank you! Your submission has been received! Our team member will be in touch within you soon. SPARK Website"
+}

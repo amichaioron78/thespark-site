@@ -1,0 +1,90 @@
+{
+  "slug": "aeye",
+  "seo": {
+    "title": "Aeye | Spark Design Agency - UX/UI & Branding",
+    "description": null,
+    "ogImage": null
+  },
+  "hero": {
+    "bgImage": "/images/6640aa950e5ae75be596c286_Aeye_1_X2.webp",
+    "bgAlt": "uturn Portfolio by spark ",
+    "logo": null,
+    "logoAlt": "",
+    "color": "#000000",
+    "heroBg": "#1d5303",
+    "meta": [
+      {
+        "label": "TYPE",
+        "value": "Medical Device, Software Design"
+      },
+      {
+        "label": "CLIENT",
+        "value": "AEYE HEALTH"
+      },
+      {
+        "label": "DELIVERABLES",
+        "value": "Product Design as a service, UX, UI"
+      }
+    ],
+    "title": "FDA clears first fully autonomous AI for portable diabetic retinopathy screening",
+    "introHtml": "<p><strong>AEYE Health's clearance enables global prevention of the leading cause of blindness in the working age population by making screening accessible anywhere</strong></p><p>Spark partnered with AEYE Health, a pioneering company in AI retinal imaging and diagnostics, to design a user-friendly interface for their groundbreaking AI-powered diabetic retinopathy screening system. <br/><br/>At Spark Design Agency, we excel in creating intuitive, user-centric designs that transform complex technologies into accessible, actionable solutions. Our collaboration with AEYE Health underscores our ability to deliver innovative products swiftly, having completed this project within three months.</p>",
+    "pageBg": null
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "html": "<p>We used a dark design theme to highligh the retinal scans beauty</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "frame",
+      "bg": "#232323",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/6640ab4804bb5b356058ccf3_Aeye_2.webp",
+          "alt": "Uturn website hero image ",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "html": "<h2>Underdsanding the client needs </h2><p>We began by thoroughly understanding AEYE Health's mission to provide accessible diabetic retinopathy screening. This involved analyzing their need for a seamless, portable solution that could be used in diverse settings, from clinics to at-home care.</p>",
+      "images": [
+        {
+          "type": "image",
+          "src": "/images/6640ab6e36c82763c54fb296_Aeye_3.webp",
+          "alt": "Mobile web design",
+          "variant": "full",
+          "rounded": false,
+          "hidden": false
+        }
+      ],
+      "imageFirst": false,
+      "wide": false
+    },
+    {
+      "type": "split",
+      "html": "<h2><strong>Collaborative Design Process:</strong></h2><p>Our team of UX/UI designers worked closely with AEYE Health, ensuring every design decision supported their business goals. We employed iterative design sprints to incorporate feedback and make necessary adjustments swiftly.</p><p>We leveraged fast prototyping to facilitate user testing before coding ultimately leading to the development of an FDA approved system.</p>",
+      "images": [
+        {
+          "type": "image",
+          "src": "/images/6640ab7c752af1f209a61dfd_Aeye_4.webp",
+          "alt": "Mobile web design",
+          "variant": "full",
+          "rounded": false,
+          "hidden": false
+        }
+      ],
+      "imageFirst": true,
+      "wide": false
+    }
+  ]
+}

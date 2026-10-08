@@ -1,0 +1,169 @@
+{
+  "slug": "nym",
+  "seo": {
+    "title": "NYM | Spark Design Agency - UX/UI & Branding",
+    "description": "We help Nym build a winning product raising $47.5M in round A. Nym powers automation in revenue cycle management, instantly transforming clinical language into actionable information that brings greater accuracy and efficiency to medical billing.",
+    "ogImage": null
+  },
+  "hero": {
+    "bgImage": "/images/646ccd695da8f9ff257e7d1c_nym_background.svg",
+    "bgAlt": "",
+    "logo": "/images/646ccdaa51f5a2fb0a9128a9_nym_logo.svg",
+    "logoAlt": "Nyn Logo",
+    "color": "#00b5e0",
+    "heroBg": null,
+    "meta": [
+      {
+        "label": "TYPE",
+        "value": "Software Design, Saas , B2B"
+      },
+      {
+        "label": "CLIENT",
+        "value": "Innovesta"
+      },
+      {
+        "label": "DELIVERABLES",
+        "value": "Product Design, UX, UI, Wire-frames, Design Strategy"
+      }
+    ],
+    "title": "NYM transforming clinical language into actionable information",
+    "introHtml": "<p>We help Nym build a winning product and secure $47.5M in round A. Nym powers automation in revenue cycle management, instantly transforming clinical language into actionable information that brings greater accuracy and efficiency to medical billing. By unlocking vital data and evidence buried within medical records, Nym enables healthcare providers to get paid more quickly and correctly while reducing the time and cost associated with medical coding and billing.<br/><br/>We Designed Nyms Reports and dashboards to be an actionable and user-friendly interface that delights their users and helps their marketing team sell the product to hospitals around the globe.</p>",
+    "pageBg": "#f5f5f5"
+  },
+  "blocks": [
+    {
+      "type": "image",
+      "src": "/images/6458ffe39cba34cc011a549a_nym-dashboard-1.webp",
+      "alt": "",
+      "variant": "full",
+      "rounded": false,
+      "hidden": false
+    },
+    {
+      "type": "text",
+      "html": "<p>We used a Light minimal design theme with a simple color coding to signify create a simple reporting system</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "frame",
+      "bg": "#ffffff",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/645900cc7e54dfe1c88fc5d9_NYM-Dashboard-_-2.webp",
+          "alt": "",
+          "variant": "web",
+          "rounded": true,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "bg": "#ffffff",
+      "bgImage": null,
+      "noPaddingTop": true,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/6459019981f894863d5f9f7a_NYM-Dashboard-_-3.webp",
+          "alt": "",
+          "variant": "web",
+          "rounded": true,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "html": "<h2>Color theme</h2><p>NYM Health's brand colors are primarily blue and green, which evoke feelings of trust, calmness, and growth. The shades of blue used are reminiscent of the ocean and sky, representing stability and depth. The green color adds a touch of vibrancy, symbolizing health and vitality.</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#ffc82d",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/64590199eaab7f35efdf6e31_NYM-Dashboard-_-4_color_theme.webp",
+              "alt": "",
+              "variant": "small",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": false,
+      "wide": false
+    },
+    {
+      "type": "split",
+      "html": "<p>and the overall color palette reflects NYM Health's mission of promoting wellness and healthcare.</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#ffc82d",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/645901999e33659807602f85_NYM-Dashboard-_-5_color_theme.webp",
+              "alt": "",
+              "variant": "small",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": true,
+      "wide": false
+    },
+    {
+      "type": "frame",
+      "bg": "#ffffff",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/645901994a9b735185cd9978_NYM-Dashboard-_-6.webp",
+          "alt": "",
+          "variant": "web",
+          "rounded": true,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "html": "<p>Spark's charts are visually appealing, driving engagement and retention. Our focus on aesthetics and clarity ensures delightful and informative interactions for users.</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "frame",
+      "bg": "#ffffff",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/64590199f9834a8ebdd8bf51_NYM-Dashboard-_-7.webp",
+          "alt": "",
+          "variant": "web",
+          "rounded": true,
+          "hidden": false
+        }
+      ]
+    }
+  ]
+}

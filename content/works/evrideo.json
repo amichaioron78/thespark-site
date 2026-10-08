@@ -1,0 +1,120 @@
+{
+  "slug": "evrideo",
+  "seo": {
+    "title": "Evrideo",
+    "description": "Evrideo Broadcasting as a cloud service has 600% growth 2025 with sparks innovations",
+    "ogImage": null
+  },
+  "hero": {
+    "bgImage": "/images/6800c3bc21edcff2cafde4d1_Mask-group-1-.png",
+    "bgAlt": "Evrideo hero image ",
+    "logo": null,
+    "logoAlt": "",
+    "color": "#000000",
+    "heroBg": "#1d5303",
+    "meta": [
+      {
+        "label": "TYPE",
+        "value": "App Design,  Design, Saas , B2B"
+      },
+      {
+        "label": "CLIENT",
+        "value": "Evrideo"
+      },
+      {
+        "label": "DELIVERABLES",
+        "value": "SAAS interface , UX , UI , Strategy"
+      }
+    ],
+    "title": "Evrideo, a cloud-based Broadcasting  software",
+    "introHtml": "<p><strong>SPARK worked with Evrideo to design and develop a new suite of products over 12 months.</strong> Through rapid prototyping and client testing, we helped them sell early—before full development—cutting dev costs by 50%. In 2025, after launching the new platform, Evrideo saw 600% growth in just two months.</p>",
+    "pageBg": "#fffcf8"
+  },
+  "blocks": [
+    {
+      "type": "image",
+      "src": "/images/6800c3989f003bdb11cb8750_01.png",
+      "alt": "Market Man by Spark design Agency",
+      "variant": "web",
+      "rounded": false,
+      "hidden": false
+    },
+    {
+      "type": "split",
+      "html": "<h2>Evrideo's value </h2><p>Evrideo replaces traditional broadcast infrastructure with a fully cloud-based, end-to-end playout solution—eliminating the need for costly hardware, manual operations, and complex integrations.</p>",
+      "images": [
+        {
+          "type": "image",
+          "src": "/images/6800c3981e5a1d7dcb636d8c_Mask-group.png",
+          "alt": "Market Man Mobile app by Spark design Agency",
+          "variant": "mobile",
+          "rounded": false,
+          "hidden": false
+        }
+      ],
+      "imageFirst": false,
+      "wide": false
+    },
+    {
+      "type": "image",
+      "src": "/images/6800c3981d4ec8557bb3be6b_8.png",
+      "alt": "Market Man by Spark design Agency",
+      "variant": "web",
+      "rounded": false,
+      "hidden": false
+    },
+    {
+      "type": "text",
+      "html": "<p>With Evrideo, channels can be launched in days—not months—thanks to its fully cloud-native, plug-and-play infrastructure.</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": true
+    },
+    {
+      "type": "frame",
+      "bg": "#404450",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/6800d9b392e8d794c9c84474_Mask-group-2-.png",
+          "alt": "Collaborative team of designers working together in a creative workshop setting.",
+          "variant": "full",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "html": "<p>This is the brand new Evrideo’s live broadcasting interface, giving operators full control over feeds, graphics, layouts, and scheduling—enabling seamless, real-time playout from anywhere.</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "frame",
+      "bg": "#404450",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/6800d9c6317bb0123747d162_Mask-group-4-.png",
+          "alt": "Group of diverse individuals collaborating and brainstorming in a dynamic work environment.",
+          "variant": "full",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "html": "<p>This is Evrideo’s censorship interface, enabling broadcasters to review, edit, and mitigate content in real time to meet compliance standards before airing.</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    }
+  ]
+}

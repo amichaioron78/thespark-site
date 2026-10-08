@@ -1,0 +1,468 @@
+{
+  "slug": "uturn",
+  "seo": {
+    "title": "UTURN | Spark Design Agency - UX/UI & Branding",
+    "description": "SPARK worked in partnership with Suridata to create a user-centered security management solution. We were involved in every step of the process, from designing the brand and website to creating an intuitive UX/UI for their software.",
+    "ogImage": null
+  },
+  "hero": {
+    "bgImage": "/images/6473593c1599f3a16bb2e29f_uturn-image-1.webp",
+    "bgAlt": "uturn Portfolio by spark ",
+    "logo": null,
+    "logoAlt": "",
+    "color": "#1f6036",
+    "heroBg": "#1d5303",
+    "meta": [
+      {
+        "label": "TYPE",
+        "value": "Software Design, Saas , B2B, Retail, Branding"
+      },
+      {
+        "label": "CLIENT",
+        "value": "Uturn"
+      },
+      {
+        "label": "DELIVERABLES",
+        "value": "Design Strategy, Branding, Software design, responsive Website"
+      }
+    ],
+    "title": "UTurn- Sell online returns before they are shipped back",
+    "introHtml": "<p>Uturn is an innovative platform that enables retailers to resell their online returns before they are shipped back, delivering higher ROI per returned item and eliminating environmental waste. As a design agency, we provided a turnkey solution for Uturn, including branding, software design, ecommerce widgets, marketing materials, and videos. Our expertise and collaboration with Uturn showcase our ability to create successful products from scratch.</p>",
+    "pageBg": null
+  },
+  "blocks": [
+    {
+      "type": "image",
+      "src": "/images/64735a78f753275fb1087942_uturn_1.svg",
+      "alt": "UTurn Style Guide",
+      "variant": "full",
+      "rounded": false,
+      "hidden": false
+    },
+    {
+      "type": "split",
+      "html": "<h2>Uturn Logo DeSign</h2><p>UTurn's logo is inspired by the idea of returns being shipped directly to the next client, rather than to the warehouse. The letters of the logo are built from the letter U, and two dots are added to represent the capturing of returns. This design is used in animations to demonstrate how UTurn resells returned products to the next buyer.</p>",
+      "images": [
+        {
+          "type": "image",
+          "src": "/images/64735a9f9c08906b6029f181_uturn_2.svg",
+          "alt": "Uturn Logo ",
+          "variant": "full",
+          "rounded": false,
+          "hidden": false
+        }
+      ],
+      "imageFirst": false,
+      "wide": false
+    },
+    {
+      "type": "text",
+      "html": "<p>We used a modern green color palette for Uturn to complement their sustainable solution, which was accented with pink and off-white.</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "split",
+      "html": "",
+      "images": [
+        {
+          "type": "image",
+          "src": "/images/64735b06d470f32e38bf58c3_uturn_3.svg",
+          "alt": "UTurn Logo",
+          "variant": "full",
+          "rounded": false,
+          "hidden": false
+        },
+        {
+          "type": "image",
+          "src": "/images/64735b189c08906b602a404b_uturn_4.svg",
+          "alt": "UTurn Logo",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ],
+      "imageFirst": true,
+      "wide": true
+    },
+    {
+      "type": "image",
+      "src": "/images/64735c25a8934fab32b4ef13_uturn_5.webp",
+      "alt": "UTurn Branding ",
+      "variant": "full",
+      "rounded": false,
+      "hidden": false
+    },
+    {
+      "type": "split",
+      "html": "<h2>Barnding</h2><p>We tested the Uturn branding on various products to check that it can provide a flexible dynamic solution for the Software , website and company giveaways.</p>",
+      "images": [
+        {
+          "type": "image",
+          "src": "/images/64735c3f4eeb1ff94a5393d3_uturn_6.webp",
+          "alt": "UTurn Branding - Bag",
+          "variant": "full",
+          "rounded": false,
+          "hidden": false
+        }
+      ],
+      "imageFirst": false,
+      "wide": false
+    },
+    {
+      "type": "split",
+      "html": "<h2>Responsive Layouts</h2><p>We designed Uturn to be mobile-responsive, with 50% of users visiting from mobile devices. This ensured that the platform was accessible and easy to use on any device, without compromising on the overall user experience.</p>",
+      "images": [
+        {
+          "type": "image",
+          "src": "/images/64735c68077edbd653c265f9_uturn_7.webp",
+          "alt": "UTurn responsive design ",
+          "variant": "full",
+          "rounded": false,
+          "hidden": false
+        }
+      ],
+      "imageFirst": true,
+      "wide": false
+    },
+    {
+      "type": "text",
+      "html": "<p>Uturn’s website energizes users with excitement and drives new users to the software ,the websites is focused on the value proposition, features and benefits.</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "frame",
+      "bg": "#f6f3ed",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/64735cb38341277e7295c66c_uturn_8.webp",
+          "alt": "Uturn website hero image ",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "html": "<p>We designed the UTurn website to be both energizing and engaging, encouraging users to explore and interact with the platform.</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "split",
+      "html": "",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#349760",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/64737077bc189674cba4ef83_image-776.webp",
+              "alt": "uturn Widgets ",
+              "variant": "small",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "bg": "#f6f3ed",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/64735d0fa8934fab32b58a4d_uturn_10.webp",
+              "alt": "uturn widgets ",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": true,
+      "wide": true
+    },
+    {
+      "type": "text",
+      "html": "<p>UTurn Responsive layouts.</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "split",
+      "html": "",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#f6f3ed",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/64735d70a8934fab32b5cc0a_uturn_11.webp",
+              "alt": "Uturn seamless integration ",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "bg": "#349760",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/64735d7b821a39916e76711c_uturn_12.webp",
+              "alt": "Uturn seamless integration ",
+              "variant": "small",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": true,
+      "wide": true
+    },
+    {
+      "type": "text",
+      "html": "<p>Uturn Contact form</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "frame",
+      "bg": "#f6f3ed",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/64735e338126600a5a2fc91b_uturn_13.webp",
+          "alt": "Uturn contact us ",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "html": "<p>Uturn's software is minimalistic and provides clear returns status and control over products/rules, prioritizing usability.</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "frame",
+      "bg": "#f6f3ed",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/64735e8e958c39571d964e23_uturn_14.webp",
+          "alt": "uturn login ",
+          "variant": "web",
+          "rounded": true,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "bg": "#f6f3ed",
+      "bgImage": null,
+      "noPaddingTop": true,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/64735e952e75003682d459fc_uturn_15.webp",
+          "alt": "uturn dashboard ",
+          "variant": "web",
+          "rounded": true,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "html": "<p>Uturn combines simplified widgets and photography to showcase its usability and real-life application.</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "frame",
+      "bg": "#f6f3ed",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/64735ee4c1b5e5f6040ec585_uturn_16.webp",
+          "alt": "Uturn product page ",
+          "variant": "web",
+          "rounded": true,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "html": "<h2>uturn marketing materials</h2><p>For Uturn's marketing materials, we created simplified versions of the widgets that are less detailed.</p>",
+      "images": [
+        {
+          "type": "image",
+          "src": "/images/64735f8c958c39571d971e0b_uturn_17.webp",
+          "alt": "uturn decorative image ",
+          "variant": "full",
+          "rounded": false,
+          "hidden": false
+        }
+      ],
+      "imageFirst": false,
+      "wide": false
+    },
+    {
+      "type": "split",
+      "html": "<h2>Uturn marketing materials</h2><p>The Marketing materials Imagery is more inspirational and Conveys the essence of the product.</p>",
+      "images": [
+        {
+          "type": "image",
+          "src": "/images/64735f97944b04bd3bb20a11_uturn_18.webp",
+          "alt": "uturn smart  integration ",
+          "variant": "full",
+          "rounded": false,
+          "hidden": false
+        }
+      ],
+      "imageFirst": true,
+      "wide": false
+    },
+    {
+      "type": "text",
+      "html": "<p>Uturn software homepage</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "frame",
+      "bg": "#f6f3ed",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/6473606aeadf2262455e6e86_uturn_19.webp",
+          "alt": "uturn desktop ",
+          "variant": "web",
+          "rounded": true,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "html": "<h2>Notifications</h2><p>A vital part of Uturn’s echo-system are delightful notifications that encourage users to keep the product for several days until a buyer can be found.</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#f6f3ed",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/thespark/video/upload/v1685617815/SPARK/Jun%201/Uturn/mobile_uturn_fbgyee.mp4?dl=0&raw=1&autoplay=1",
+              "poster": null
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "bg": "#f6f3ed",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/647360a1038ebc884e5a7f11_uturn_21.webp",
+              "alt": "uturn mobile app widget",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": true,
+      "wide": true
+    },
+    {
+      "type": "split",
+      "html": "<h2>Illustrations</h2><p>We Create small illustrations to support the brands messages</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#f6f3ed",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/647360aa6d3931efc9967bbb_uturn_22.webp",
+              "alt": "uturn mobile app widget",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "bg": "#f6f3ed",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/647360b26d3931efc9968131_uturn_23.webp",
+              "alt": "uturn mobile app widget",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": true,
+      "wide": true
+    },
+    {
+      "type": "wistia",
+      "id": "oymriafpk1"
+    }
+  ]
+}

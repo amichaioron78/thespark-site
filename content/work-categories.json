@@ -1,0 +1,14 @@
+[
+ {"slug":"all","name":"All","singular":"All","order":1},
+ {"slug":"saas","name":"SAAS","singular":"SAAS","order":1,"seoDescription":"For the last 15 years, Spark Design has helped SaaS companies raise over $140M—delivering strategic UX/UI and product design that drives adoption, retention, and scalable growth across leading platforms."},
+ {"slug":"software-design","name":"Software Design","singular":"Software","order":2},
+ {"slug":"medical","name":"Medical","singular":"Medical","order":2.5},
+ {"slug":"cyber-security","name":"Cyber security","singular":"Cyber security","order":2.9},
+ {"slug":"applications","name":"Mobile Applications","singular":"Mobile Application","order":3},
+ {"slug":"websites","name":"Websites","singular":"Website","order":4},
+ {"slug":"branding","name":"Branding","singular":"Branding","order":5},
+ {"slug":"agritech","name":"Agritech","singular":"Agritech","order":6},
+ {"slug":"e-commerce-branding","name":"e-Commerce","singular":"e-Commerce / Branding","order":6},
+ {"slug":"ai","name":"AI","singular":"AI","order":7},
+ {"slug":"fintech","name":"Fintech","singular":"Fintech","order":8}
+]

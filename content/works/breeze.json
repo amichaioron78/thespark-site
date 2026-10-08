@@ -1,0 +1,238 @@
+{
+  "slug": "breeze",
+  "seo": {
+    "title": "Breeze | Spark Design Agency - UX/UI & Branding",
+    "description": "At Spark, we are experts in designing user-centric solutions for the insurance industry. Our latest project, Breeze software, is a fully automated and digital insurance solution specifically tailored for freight forwarders and logistics companies.",
+    "ogImage": null
+  },
+  "hero": {
+    "bgImage": "/images/6446f4182404d41ddfd8b85a_Breeze.webp",
+    "bgAlt": "",
+    "logo": null,
+    "logoAlt": "",
+    "color": "#08283d",
+    "heroBg": null,
+    "meta": [
+      {
+        "label": "TYPE",
+        "value": "Website, Software Design"
+      },
+      {
+        "label": "CLIENT",
+        "value": "Breeze"
+      },
+      {
+        "label": "DELIVERABLES",
+        "value": "Product Design, UX, UI, Wire-frames, Design Strategy, Branding"
+      }
+    ],
+    "title": "Breeze - Rethinking Marine Insurance",
+    "introHtml": "<p>At Spark, we are experts in designing user-centric solutions for the insurance industry. Our latest project, Breeze software, is a fully automated and digital insurance solution specifically tailored for freight forwarders and logistics companies. Leveraging our deep understanding of the industry, we conducted extensive research to identify user needs and pain points. Our design approach focused on data visualization and streamlined workflows, resulting in a cutting-edge software that empowers users to make data-driven decisions and optimize their insurance processes.</p>",
+    "pageBg": null
+  },
+  "blocks": [
+    {
+      "type": "frame",
+      "bg": "#f2f2f2",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/6458ecd5c71f6be28f15dbcb_Breeze_ui_design_1.webp",
+          "alt": "Breeze website By SPARK",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "html": "<p>we utilized a combination of real-world and digital data animations to create a compelling connection between the Breeze software and the risks of shipping at sea</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "frame",
+      "bg": "#f2f2f2",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/6446f5afff7c413b54f2396e_webdesign_2.webp",
+          "alt": "Breeze website By SPARK",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "html": "<h2>Responsive Design</h2><p>Breeze's website is designed to be responsive, catering to the 50% of visitors who access the services through their mobile devices. Our mobile-first approach ensures seamless navigation, readability, and interactions on smaller screens, allowing users to conveniently access Breeze's services on the go, regardless of the device they are using.</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#f2f2f2",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/6446f60223bc3c756ab94f1b_mobile_design_3.webp",
+              "alt": "Breeze responsive website By SPARK",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": false,
+      "wide": false
+    },
+    {
+      "type": "text",
+      "html": "<p>Breeze's branding blends black and white photos with digital animations, capturing the convergence of traditional and high-tech industries.</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "split",
+      "html": "",
+      "images": [
+        {
+          "type": "image",
+          "src": "/images/6446f6789de026e6585ad33b_cargo_img_5.webp",
+          "alt": "",
+          "variant": "full",
+          "rounded": false,
+          "hidden": false
+        },
+        {
+          "type": "frame",
+          "bg": "#f2f2f2",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/6446f60223bc3c756ab94f1b_mobile_design_3.webp",
+              "alt": "Breeze responsive website By SPARK",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": true,
+      "wide": true
+    },
+    {
+      "type": "frame",
+      "bg": "#f2f2f2",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/6458ed107064074ac80c50fd_Breeze_ui_design_5.webp",
+          "alt": "Breeze responsive website By SPARK",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "html": "<p>This unique visual approach reflects Breeze's innovative approach to insurance, seamlessly integrating traditional values with modern technology</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "frame",
+      "bg": "#f2f2f2",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/64df2b32a3fa606810698570_breeze_website_design.webp",
+          "alt": "Breeze responsive website By SPARK",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "html": "<p>Information hierarchy in UX design organizes content and visual elements to prioritize important information, and guide users towards their goals.</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "split",
+      "html": "",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#f2f2f2",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/6446f743022a927f3702ba38_mobile_9.webp",
+              "alt": "Breeze responsive website By SPARK",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/647475ffa5d47718a560257f_fredrick-filix-Q0_KJ8Cp_Y4-unsplash-1.webp",
+          "alt": "Marine website ",
+          "variant": "full",
+          "rounded": false,
+          "hidden": false
+        }
+      ],
+      "imageFirst": true,
+      "wide": true
+    },
+    {
+      "type": "text",
+      "html": "<p>We used images that evoke the inherent risks of shipping at sea, serving as a reminder to insurance buyers that these risks are always present</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "frame",
+      "bg": "#f2f2f2",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/6458ed2feaab7fb6a5de2d4c_Breeze_ui_design_8.webp",
+          "alt": "Breeze responsive website By SPARK",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    }
+  ]
+}

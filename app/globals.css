@@ -1,0 +1,137 @@
+@import "tailwindcss";
+
+/* ----------------------------------------------------------------------
+   Design tokens — ported from the Webflow build of thespark.ai
+   ---------------------------------------------------------------------- */
+:root {
+  --blue: #363ff2;
+  --blue-dark: #3038d6;
+  --green: #c2ff40;
+  --white: #ffffff;
+  --ghost-white: #f9f9fd;
+  --black: #232323;
+  --salmon: #ff6868;
+  --card-bg: #363ff20d;
+  --font-body: "Poppins", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Playfair Display", Georgia, serif;
+  --side: 4.8%;
+}
+
+@theme inline {
+  --color-blue: var(--blue);
+  --color-blue-dark: var(--blue-dark);
+  --color-green: var(--green);
+  --color-ghost: var(--ghost-white);
+  --color-ink: var(--black);
+  --font-sans: var(--font-body);
+  --font-display: var(--font-display);
+}
+
+@layer base {
+html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--white);
+  color: var(--black);
+  font-family: var(--font-body);
+  font-size: 1rem;
+  line-height: 1.5;
+  letter-spacing: 0.005em;
+}
+
+h1, h2, h3, h4, .display {
+  font-family: var(--font-display);
+  font-weight: 700;
+  color: var(--blue);
+  line-height: 1.2;
+  margin: 0;
+}
+h1 { font-size: clamp(2rem, 4vw, 3.3rem); }
+h2 { font-size: clamp(1.5rem, 2.6vw, 2.25rem); }
+h3 { font-size: 1.5rem; }
+a { color: inherit; }
+}
+
+/* Layout helpers mirroring the original spacing system */
+.section { margin-left: var(--side); margin-right: var(--side); padding-top: 50px; padding-bottom: 50px; }
+.section-medium { padding: 60px var(--side); }
+.container { max-width: 2000px; margin: 0 auto; }
+@media (max-width: 479px) {
+  .section { padding-top: 40px; padding-bottom: 40px; }
+}
+
+/* Buttons */
+.btn {
+  display: inline-block;
+  background: var(--green);
+  color: var(--blue);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  border-radius: 60px;
+  padding: 14px 22px;
+  font-weight: 600;
+  font-size: 0.875rem;
+  line-height: 1;
+  text-decoration: none;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+.btn:hover { transform: translateY(-1px); box-shadow: 0 6px 18px rgba(54, 63, 242, 0.18); }
+.btn-outline { background: transparent; border: 1px solid currentColor; color: inherit; }
+
+/* Eyebrow / meta labels */
+.eyebrow { color: var(--blue); letter-spacing: 0.08em; text-transform: uppercase; font-size: 0.75rem; line-height: 1.3; }
+
+/* ----------------------------------------------------------------------
+   Rich text (CMS / case-study copy)
+   ---------------------------------------------------------------------- */
+.rich p { margin: 0 0 1em; }
+.rich p:last-child { margin-bottom: 0; }
+.rich h2, .rich h3, .rich h4 { margin: 1.4em 0 0.5em; }
+.rich h2 { font-size: 1.75rem; }
+.rich h3 { font-size: 1.35rem; }
+.rich ul, .rich ol { padding-left: 1.4em; margin: 0 0 1em; }
+.rich li { margin-bottom: 0.4em; }
+.rich a { color: var(--blue); text-decoration: underline; }
+.rich img { max-width: 100%; height: auto; display: block; margin: 1.5em auto; border-radius: 8px; }
+.rich blockquote { border-left: 3px solid var(--blue); padding-left: 1em; margin: 1.5em 0; font-style: italic; }
+.rich figure { margin: 1.5em 0; }
+.rich figcaption { font-size: 0.85em; opacity: 0.7; text-align: center; }
+.rich strong { font-weight: 600; }
+.rich table { border-collapse: collapse; width: 100%; margin: 1.5em 0; }
+.rich td, .rich th { border: 1px solid #e3e3ee; padding: 8px 12px; text-align: left; }
+.rich.white, .rich.white h2, .rich.white h3 { color: #fff; }
+.rich.blue, .rich.blue h2, .rich.blue h3 { color: var(--blue); }
+.rich.blog { max-width: 800px; margin: 0 auto; }
+.rich.blog p { margin-bottom: 16px; }
+.rich.blog h2 { color: var(--blue-dark); }
+[dir="rtl"] .rich { text-align: right; }
+[dir="rtl"] .rich ul, [dir="rtl"] .rich ol { padding-left: 0; padding-right: 1.4em; }
+
+/* ----------------------------------------------------------------------
+   Reveal-on-scroll (replaces the GSAP reveal used on the Webflow build)
+   ---------------------------------------------------------------------- */
+.js .reveal { opacity: 0; transform: translateY(24px); transition: opacity 0.7s ease, transform 0.7s ease; }
+.js .reveal.is-visible { opacity: 1; transform: none; }
+@media (prefers-reduced-motion: reduce) { .reveal { opacity: 1; transform: none; transition: none; } }
+
+/* Horizontal snap carousel for testimonials */
+.snap-x { scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
+.snap-x::-webkit-scrollbar { display: none; }
+.snap-x > * { scroll-snap-align: center; }
+
+/* Form fields (contact) */
+.field {
+  width: 100%;
+  background: transparent;
+  color: inherit;
+  border: 0;
+  border-bottom: 1px solid currentColor;
+  padding: 10px 0;
+  margin-bottom: 32px;
+  font: inherit;
+  outline: none;
+  border-radius: 0;
+}
+.field::placeholder { color: inherit; opacity: 0.7; }
+.field:focus { border-bottom-color: var(--green); }
+select.field option { color: var(--black); }

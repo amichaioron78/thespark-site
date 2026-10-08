@@ -1,0 +1,94 @@
+{
+  "slug": "hermes",
+  "seo": {
+    "title": "Hermes | Spark Design Agency - UX/UI & Branding",
+    "description": null,
+    "ogImage": null
+  },
+  "hero": {
+    "bgImage": "/images/6640ad0eb6a5c7816c0c20af_Hermes_1.webp",
+    "bgAlt": "uturn Portfolio by spark ",
+    "logo": null,
+    "logoAlt": "",
+    "color": "#333333",
+    "heroBg": "#1d5303",
+    "meta": [
+      {
+        "label": "TYPE",
+        "value": "Medical device , Software Design"
+      },
+      {
+        "label": "CLIENT",
+        "value": "IDEA BIO"
+      },
+      {
+        "label": "DELIVERABLES",
+        "value": "Product Design as a service, UX, UI"
+      }
+    ],
+    "title": "Enhancing High-Content Screening with Hermes Scheduler Program",
+    "introHtml": "<p>We recently collaborated with IDEA Bio-Medical to design a scheduler program for their Hermes high-content screening system. This system integrates an advanced microscope, analysis software, and an automated robotic arm stacker to streamline the screening process. At Spark Design Agency, we specialize in creating intuitive, user-centric solutions that enhance the functionality and efficiency of complex scientific instruments.</p>",
+    "pageBg": null
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "html": "<p>We used a dark minimal pallet theme with a simple color coding to signify a simple intuitive interface</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "image",
+      "src": "/images/6640ad639d1ea7da04925d2a_Hermes_2.png",
+      "alt": "Uturn website hero image ",
+      "variant": "full",
+      "rounded": false,
+      "hidden": false
+    },
+    {
+      "type": "image",
+      "src": "/images/6640ad980acabc7b39b85125_Hermes_3.png",
+      "alt": "Uturn website hero image ",
+      "variant": "full",
+      "rounded": false,
+      "hidden": false
+    },
+    {
+      "type": "split",
+      "html": "<h2><strong>Understanding Client Needs:</strong></h2><h2></h2><p>We began by thoroughly understanding IDEA Bio-Medical's requirements for a seamless scheduler program that coordinates the microscope, analysis software, and robotic arm stacker. This involved analyzing their need for efficient scheduling and automation in high-content screening.</p>",
+      "images": [
+        {
+          "type": "image",
+          "src": "/images/6640ade669c289617db8651a_Hermes_4.png",
+          "alt": "Mobile web design",
+          "variant": "full",
+          "rounded": false,
+          "hidden": false
+        }
+      ],
+      "imageFirst": false,
+      "wide": false
+    },
+    {
+      "type": "split",
+      "html": "<h2><strong>Rapid Design Prototypes:</strong></h2><p>Utilizing advanced prototyping techniques, we tested the scheduler program ahead of development. This allowed us to make necessary changes to meet client needs before writing one line of code, ensuring a polished final product.</p>",
+      "images": [
+        {
+          "type": "image",
+          "src": "/images/6640ae1c2f7e0d025f939c96_Hermes_5.png",
+          "alt": "Mobile web design",
+          "variant": "full",
+          "rounded": false,
+          "hidden": false
+        }
+      ],
+      "imageFirst": true,
+      "wide": false
+    },
+    {
+      "type": "wistia",
+      "id": "20yttvwbao"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "qsee-carbon",
+  "seo": {
+    "title": "Qsee Carbon | Spark Design Agency - UX/UI & Branding",
+    "description": null,
+    "ogImage": null
+  },
+  "hero": {
+    "bgImage": "/images/6640a3457a2f7eadd596e51b_Qsee-carbon_1.webp",
+    "bgAlt": "uturn Portfolio by spark ",
+    "logo": null,
+    "logoAlt": "",
+    "color": "#344856",
+    "heroBg": "#1d5303",
+    "meta": [
+      {
+        "label": "TYPE",
+        "value": "Software Design, Saas , B2B"
+      },
+      {
+        "label": "CLIENT",
+        "value": "QSEE"
+      },
+      {
+        "label": "DELIVERABLES",
+        "value": "Product Design, UX, UI, Wire-frames, Design Strategy, Branding"
+      }
+    ],
+    "title": "QSEE CARBON - a leader in factory carbon footprint management",
+    "introHtml": "<p>We recently partnered with QSEE, a leader in factory carbon footprint management, to develop a user-centric interface for their carbon tracking and reporting system. At Spark Design Agency, we specialize in transforming complex data into intuitive, visually appealing solutions that enhance user experience and operational efficiency. Our collaboration with QSEE was completed in just three months, showcasing our ability to deliver high-quality products within tight deadlines.</p>",
+    "pageBg": null
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "html": "<p>We used a Light minimal design theme with a simple color coding to create a simple SAAS reporting system</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "frame",
+      "bg": "#f6f6f6",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/6640a4c7991feb5b656f7751_Qsee-carbon_2.webp",
+          "alt": "Uturn website hero image ",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "html": "<h2><strong>Understanding Client Needs:</strong></h2><h2></h2><p>We started by thoroughly understanding QSEE's requirements for tracking and reducing factory carbon footprints. This included analyzing their need for comprehensive visibility into carbon emissions, energy consumption, and cost savings.<br/><br/>We developed a strategic plan outlining the project scope, timelines, and key milestones. This ensured alignment with QSEE's vision and objectives, setting clear goals for the design process.<br/><br/></p>",
+      "images": [
+        {
+          "type": "image",
+          "src": "/images/6640a56b36c82763c54ac77d_Qsee-carbon_3.webp",
+          "alt": "Mobile web design",
+          "variant": "full",
+          "rounded": false,
+          "hidden": false
+        }
+      ],
+      "imageFirst": false,
+      "wide": false
+    },
+    {
+      "type": "split",
+      "html": "<h2><strong>Rapid Design Prototypes</strong></h2><p>Utilizing advanced prototyping techniques, we tested the product ahead of development. This allowed us to make necessary changes to meet client needs before writing one line of code, ensuring a polished final product.</p>",
+      "images": [
+        {
+          "type": "image",
+          "src": "/images/6640a5765983c941e2142c58_Qsee-carbon_4.webp",
+          "alt": "Mobile web design",
+          "variant": "full",
+          "rounded": false,
+          "hidden": false
+        }
+      ],
+      "imageFirst": true,
+      "wide": false
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "seo": {
+    "title": "Contact us | Spark Design Agency - UX/UI & Branding",
+    "description": null,
+    "ogImage": null
+  },
+  "title": "Let’s work together",
+  "subtitle": "Start a project, schedule a talk - or - just say Hello",
+  "fields": [
+    {
+      "name": "Searching-for",
+      "type": "select",
+      "placeholder": "I am searching for...",
+      "required": false,
+      "options": [
+        "Schedule a speaking engagement",
+        "Inquire about employment",
+        "General inquires"
+      ]
+    },
+    {
+      "name": "Full-Name",
+      "type": "text",
+      "placeholder": "Full name*",
+      "required": true
+    },
+    {
+      "name": "Company",
+      "type": "text",
+      "placeholder": "Company / organization",
+      "required": false
+    },
+    {
+      "name": "email",
+      "type": "email",
+      "placeholder": "Email*",
+      "required": true
+    },
+    {
+      "name": "Phone",
+      "type": "tel",
+      "placeholder": "Phone number*",
+      "required": true
+    },
+    {
+      "name": "hear-you-from",
+      "type": "select",
+      "placeholder": "How did you hear about us...",
+      "required": false,
+      "options": [
+        "Google - Top 5 Ads",
+        "I searched on google",
+        "Referrals / Recommendation",
+        "Linkedin",
+        "Instagram",
+        "Facebook",
+        "Other"
+      ]
+    },
+    {
+      "name": "Message",
+      "type": "textarea",
+      "placeholder": "Message",
+      "required": false
+    }
+  ],
+  "submitLabel": "Submit",
+  "successMessage": "Thank you! Your submission has been received! Our team member will be in touch within you soon. Go to the home page",
+  "phone": "+972 54777 5609",
+  "email": "info@thespark.ai"
+}

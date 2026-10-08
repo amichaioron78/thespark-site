@@ -1,0 +1,234 @@
+{
+  "slug": "healtop",
+  "seo": {
+    "title": "HealTop | Spark Design Agency - UX/UI & Branding",
+    "description": "HealTop Wellness is an eCommerce platform that offers products and knowledge for people who want to improve their health and wellbeing. The company offers a range of products including natural supplements and cosmetics, holistic probiotic air purifiers, laser therapy devices for pets, software to support ADHD, smart irrigation systems, and garden lighting systems.",
+    "ogImage": null
+  },
+  "hero": {
+    "bgImage": "/images/646201df498294aa41fe0926_healtop-cover.webp",
+    "bgAlt": "",
+    "logo": null,
+    "logoAlt": "",
+    "color": "#232323",
+    "heroBg": null,
+    "meta": [
+      {
+        "label": "TYPE",
+        "value": "e-Commerce, Branding"
+      },
+      {
+        "label": "CLIENT",
+        "value": "Healtop"
+      },
+      {
+        "label": "DELIVERABLES",
+        "value": "Website Design, Branding , UX, UI"
+      }
+    ],
+    "title": "HealTop - eCommerce platform for consumer health products",
+    "introHtml": "<p>HealTop Wellness is an eCommerce platform that offers products and knowledge for people who want to improve their health and wellbeing. The company offers a range of products including natural supplements and cosmetics, holistic probiotic air purifiers, laser therapy devices for pets, software to support ADHD, smart irrigation systems, and garden lighting systems.</p><p>Our team designed the website to be as a space of wellness - the key problem we face is the similarity of the products.</p><p>The solution was a flexible design and color system to create the feeling of ease of orientation in space The modular system ensures that inspirational editorial content stays relevant in combination with changing collections of products.</p>",
+    "pageBg": null
+  },
+  "blocks": [
+    {
+      "type": "frame",
+      "bg": "#f2f3f5",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/646201ddf4af9a2a7986b3da_HealTop-_-1.webp",
+          "alt": "",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "html": "<h2>Branding</h2><p>Branding is all about creating a deep connection between customer and company values. Once the website became online, we focus all the attention to retention features.</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#dfd7ce",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/646201dfabd174ddaada3f90_HealTop-_-mobile-_-2.webp",
+              "alt": "",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": false,
+      "wide": false
+    },
+    {
+      "type": "split",
+      "html": "",
+      "images": [
+        {
+          "type": "image",
+          "src": "/images/646201dd9a5f8f48f577f052_HealTop-_-3.webp",
+          "alt": "",
+          "variant": "full",
+          "rounded": false,
+          "hidden": false
+        },
+        {
+          "type": "frame",
+          "bg": "#f2f3f5",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/646201dc9a5f8f48f577efb4_HealTop-_-4.webp",
+              "alt": "",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": true,
+      "wide": true
+    },
+    {
+      "type": "frame",
+      "bg": "#f2f2f2",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/646201dd6b2b87da7ac67edb_HealTop-_-5.webp",
+          "alt": "",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "html": "<p>As part of the branding Strategy we brought Health Bundles. Bundles are great presents for yourself and others, the also get you introduced to new products that normally you may write off or not notice.</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "frame",
+      "bg": "#f2f2f2",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/646201dd205824415cefecbb_HealTop-_-6.webp",
+          "alt": "",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/646201dd197d0843980d1325_HealTop-_-7.webp",
+      "alt": "",
+      "variant": "web",
+      "rounded": false,
+      "hidden": false
+    },
+    {
+      "type": "frame",
+      "bg": "#dfd7ce",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/646201dc78272677b9702ae2_HealTop-_-8.webp",
+          "alt": "",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "html": "<h2>Responsive design</h2><p>Given that 50% of Healtop's website visitors access the site from mobile devices, we made sure to build the website with responsive design in mind. </p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#f2f3f5",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/646201dcf620b3a3ab7dbc28_HealTop-_-9.webp",
+              "alt": "",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": false,
+      "wide": false
+    },
+    {
+      "type": "split",
+      "html": "<h2>SEO</h2><p>To improve the user experience on Healtop's website, we added a blog section that allowed for more frequent content creation and better SEO. By regularly publishing blog posts on relevant health and wellness topics, Healtop was able to increase website traffic and engagement, while establishing itself as a credible source of information in its industry. This approach not only provided value to Healtop's customers and prospects, but also helped to improve the company's search engine rankings and overall online presence.</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#f2f3f5",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/646201e0f11d350cba192e0d_HealTop-_-10.webp",
+              "alt": "",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": true,
+      "wide": false
+    },
+    {
+      "type": "frame",
+      "bg": "#f2f2f2",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/646201df0bbf2a9c1017b5ff_HealTop-_-11.webp",
+          "alt": "",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    }
+  ]
+}

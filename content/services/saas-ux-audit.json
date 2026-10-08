@@ -1,0 +1,38 @@
+{
+  "slug": "saas-ux-audit",
+  "seo": {
+    "title": "SaaS UX Audit | Spark Services",
+    "description": "Get actionable insights and boost user engagement, conversion rates, and revenue with our comprehensive SaaS UX audit services.",
+    "ogImage": "/images/6a6ef4e2fff25f1356e4f51a_6a6ef46f8a66860833392096_spark-saas-ux-audit-what-is-it-v2.png"
+  },
+  "title": "SaaS UX Audit",
+  "subtitle": "Get actionable insights and boost user engagement, conversion rates, and revenue with our comprehensive SaaS UX audit services.",
+  "introHtml": "<p>Spark is a UX/UI and product design studio in Tel Aviv working with B2B SaaS and AI teams. Founded by Amichai Oron, our senior designers deliver in English for global clients.</p>",
+  "sections": [
+    {
+      "heading": "What is a SaaS UX Audit?",
+      "html": "<p>A SaaS UX audit is an in-depth analysis of your product's user experience (UX), focusing on its design, functionality, and overall usability. This process helps identify areas where improvements can be made to enhance user engagement, increase conversion rates, and ultimately boost revenue.</p>",
+      "image": "/images/6a6ef4e2fff25f1356e4f51a_6a6ef46f8a66860833392096_spark-saas-ux-audit-what-is-it-v2.png",
+      "imageAlt": "What is a SaaS UX Audit?",
+      "imageFirst": false
+    },
+    {
+      "heading": "Scope and Duration",
+      "html": "<p>Our comprehensive SaaS UX audit involves a thorough examination of your product across various platforms (web and mobile). The duration is typically 1-3 weeks, depending on the complexity of your application and the volume of input materials provided by you.</p>",
+      "image": "/images/6a6ef4e2fff25f1356e4f51d_6a6ef46f8e88fea141cbccef_spark-saas-ux-audit-scope-duration-v2.png",
+      "imageAlt": "Scope and Duration",
+      "imageFirst": false
+    },
+    {
+      "heading": "Benefits of Our SaaS UX Audit Services",
+      "html": "<p>Our SaaS UX audit includes the following benefits:</p><ul><li>Boost User Engagement: Identify areas where improvements can be made to enhance user experience, increase engagement, and drive revenue growth.</li><li>Increase Conversion Rates: Optimize your product's design, functionality, and overall usability to improve conversion rates and boost revenue.</li><li>Enhance Revenue Growth: Our SaaS UX audit services help you identify opportunities to increase revenue through improved user experience, increased conversion rates, and enhanced revenue growth.</li></ul>",
+      "image": "/images/6a6ef4e2fff25f1356e4f520_6a6ef46f8e88fea141cbcd05_spark-saas-ux-audit-benefits-v2.png",
+      "imageAlt": "Benefits of Our SaaS UX Audit Services",
+      "imageFirst": false
+    }
+  ],
+  "related": [
+    "software-design",
+    "ai-product-design"
+  ]
+}

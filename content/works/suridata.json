@@ -1,0 +1,342 @@
+{
+  "slug": "suridata",
+  "seo": {
+    "title": "Suridata | Spark Design Agency - UX/UI & Branding",
+    "description": "SPARK worked in partnership with Suridata to create a user-centered security management solution. We were involved in every step of the process, from designing the brand and website to creating an intuitive UX/UI for their software.",
+    "ogImage": null
+  },
+  "hero": {
+    "bgImage": null,
+    "bgAlt": "",
+    "logo": null,
+    "logoAlt": "",
+    "color": "#1e2458",
+    "heroBg": null,
+    "meta": [
+      {
+        "label": "TYPE",
+        "value": "Software Design, Saas , B2B, Cyber Security"
+      },
+      {
+        "label": "CLIENT",
+        "value": "Suridata"
+      },
+      {
+        "label": "DELIVERABLES",
+        "value": "Design Strategy, Software Design, Wire-frames, UX, UI, Branding"
+      }
+    ],
+    "title": "Suridata provides a data-centric SaaS security management solution,",
+    "introHtml": "<p>SPARK worked in partnership with Suridata to create a user-centered security management solution. We were involved in every step of the process, from designing the brand and website to creating an intuitive UX/UI for their software. </p><p>Our goal was to make it easy for users to safeguard their data by providing a streamlined and intuitive interface for Suridata's solution. </p><p>Our hard work and dedication paid off when Suridata raised $9M in funding and won the prestigious Cybersecurity Excellence Awards. This success solidified their position as a leading company in the cybersecurity space.</p>",
+    "pageBg": null
+  },
+  "blocks": [
+    {
+      "type": "frame",
+      "bg": "#f4f4f8",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/646215c578272677b986b0e3_Suridata_1.svg",
+          "alt": "",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "html": "<h2>Branding</h2><p>Suridata’s name and brand-mark is associated with The Surikata AKA Meerkat, the meerkat lives in highly organized communities that rely on one another for their survival in such hostile conditions as whilst the majority of the group is out foraging for food, others stand on guard to keep a watchful eye out for approaching predators.We wanted to capture the essences of the Surikata standing on guard and added the glasses to make it look extra smart. The ellipse surrounding the logo creates a dynamic movement that conveys the companies agile nature.</p>",
+      "images": [
+        {
+          "type": "image",
+          "src": "/images/6472074857c3aae42367d975_suridata__.svg",
+          "alt": "",
+          "variant": "full",
+          "rounded": false,
+          "hidden": false
+        }
+      ],
+      "imageFirst": false,
+      "wide": false
+    },
+    {
+      "type": "split",
+      "html": "",
+      "images": [
+        {
+          "type": "image",
+          "src": "/images/646216bdd6d32da2439ba780_suridata_logo.svg",
+          "alt": "",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        },
+        {
+          "type": "image",
+          "src": "/images/646216e66340d1859a820949_suridata_logo_2.svg",
+          "alt": "",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ],
+      "imageFirst": true,
+      "wide": true
+    },
+    {
+      "type": "text",
+      "html": "<p>While working on the brand we showed several implementations across the brands assets.</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "image",
+      "src": "/images/646216fff620b3a3ab9342b6_Suridata_5.webp",
+      "alt": "",
+      "variant": "full",
+      "rounded": false,
+      "hidden": false
+    },
+    {
+      "type": "split",
+      "html": "<h2>Creating a branD Identity</h2><p>We tested the Suridata’s branding on various products to check that it can provide a flexible dynamic solution for the Software , website and company giveaways.</p>",
+      "images": [
+        {
+          "type": "image",
+          "src": "/images/6462170f73d9bb0ef94eb733_Suridata_6.webp",
+          "alt": "",
+          "variant": "full",
+          "rounded": false,
+          "hidden": false
+        }
+      ],
+      "imageFirst": false,
+      "wide": false
+    },
+    {
+      "type": "split",
+      "html": "<h2>Creating a branD Identity</h2><p>Around 69% of employees will work harder if their efforts are better appreciated. To boost company loyalty and morale, we designed several corporate giveaways</p>",
+      "images": [
+        {
+          "type": "image",
+          "src": "/images/6462176af620b3a3ab93a7fc_Suridata_7.webp",
+          "alt": "",
+          "variant": "full",
+          "rounded": false,
+          "hidden": false
+        }
+      ],
+      "imageFirst": true,
+      "wide": false
+    },
+    {
+      "type": "text",
+      "html": "<p>We incorporated 3d animations and dynamic graphics to give Suridata  a sophisticated UI experience, coupled with great Typography and layouts.</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "image",
+      "src": "/images/646217b567801360117089ed_Suridata_8.webp",
+      "alt": "",
+      "variant": "full",
+      "rounded": false,
+      "hidden": false
+    },
+    {
+      "type": "text",
+      "html": "<p>Dynamic Elements in Suridata UI</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "split",
+      "html": "",
+      "images": [
+        {
+          "type": "image",
+          "src": "/images/647210a0189b8450cd6dac64_V003-1.webp",
+          "alt": "",
+          "variant": "full",
+          "rounded": false,
+          "hidden": false,
+          "fit": "contain",
+          "bg": "#efedf0"
+        },
+        {
+          "type": "frame",
+          "bg": "#5c66ad",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/6462183733dde237cc6cd0fd_Suridata_10.webp",
+              "alt": "",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": true,
+      "wide": true
+    },
+    {
+      "type": "text",
+      "html": "<p>Dynamic elements in Suridata UI</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "split",
+      "html": "",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#5c66ad",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/6462187a141696732cc5c949_Suridata_11.webp",
+              "alt": "",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/6462188778272677b989435b_Suridata_12.webp",
+          "alt": "",
+          "variant": "full",
+          "rounded": false,
+          "hidden": false
+        }
+      ],
+      "imageFirst": true,
+      "wide": true
+    },
+    {
+      "type": "text",
+      "html": "<p>Suridata’s solution page has a simple layout with a dynamic hero image</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "frame",
+      "bg": "#5c66ad",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/646218aad8607c1dd17cec1f_Suridata_13.webp",
+          "alt": "",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "html": "<p>Suridata’s software design focuses on form follows function but is coupled with synamic designed elements</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "image",
+      "src": "/images/646218e47951b1100b7f3529_Suridata_14.webp",
+      "alt": "",
+      "variant": "full",
+      "rounded": false,
+      "hidden": false
+    },
+    {
+      "type": "split",
+      "html": "<h2>Infographics</h2><p>Infographics in UX/UI design make complex information more engaging and accessible to users, enhancing the overall user experience.</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#5c66ad",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/6462197ee89d32f1d0b406e5_Suridata_15.webp",
+              "alt": "",
+              "variant": "small",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": false,
+      "wide": false
+    },
+    {
+      "type": "split",
+      "html": "<h2>Infographics</h2><p>Infographics in UX/UI design engage users by visually communicating complex information, reducing cognitive load and improving usability.</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#5c66ad",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/646219cd0b68baae83f20b20_Suridata_16.webp",
+              "alt": "",
+              "variant": "small",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": true,
+      "wide": false
+    },
+    {
+      "type": "text",
+      "html": "<p>Cluster Report</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "frame",
+      "bg": "#f2f2f2",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/64621a0b7da47160c64be523_Suridata_17.webp",
+          "alt": "",
+          "variant": "web",
+          "rounded": true,
+          "hidden": false
+        }
+      ]
+    }
+  ]
+}

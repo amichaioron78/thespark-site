@@ -1,0 +1,38 @@
+{
+  "slug": "ai-product-design",
+  "seo": {
+    "title": "AI Product Design | Spark Services",
+    "description": "Trust and explainability UX, human-in-control design and evaluation guardrails for B2B SaaS and AI products, from Spark in Tel Aviv.",
+    "ogImage": "/images/6a6ef4e2fff25f1356e4f513_6a6ef46f4d84af73afdecdc9_spark-ai-product-design-expertise-v2.png"
+  },
+  "title": "AI Product Design",
+  "subtitle": "Trust and explainability UX, human-in-control design and evaluation guardrails for B2B SaaS and AI products, from Spark in Tel Aviv.",
+  "introHtml": "<p>Spark is a UX/UI and product design studio in Tel Aviv working with B2B SaaS and AI teams. Founded by Amichai Oron, our senior designers deliver in English for global clients.</p>",
+  "sections": [
+    {
+      "heading": "Our Expertise: UX/UI Design Studio for B2B SaaS and AI Products",
+      "html": "<p>Spark is a Tel Aviv-based UX/UI and product design agency specialising in B2B SaaS and AI products. Founded by Amichai Oron, our senior team provides expert English-language delivery to global clients.</p>",
+      "image": "/images/6a6ef4e2fff25f1356e4f513_6a6ef46f4d84af73afdecdc9_spark-ai-product-design-expertise-v2.png",
+      "imageAlt": "Our Expertise: UX/UI Design Studio for B2B SaaS and AI Products",
+      "imageFirst": false
+    },
+    {
+      "heading": "Why Choose Spark?",
+      "html": "<p>AI products earn adoption when people can see why the system reached its answer. We design the trust layer: confidence and provenance made legible, human-in-control review steps, and guardrails that fail safely — so your users act on the output instead of second-guessing it.</p>",
+      "image": "/images/6a6ef4e2fff25f1356e4f50b_6a6ef46fad118a19b01d6be8_spark-ai-trust-explainability-ux-v2.png",
+      "imageAlt": "Why Choose Spark?",
+      "imageFirst": false
+    },
+    {
+      "heading": "Process",
+      "html": "<p>Our process is built to reduce risk at every step:</p><ol><li><strong>Deep understanding</strong> of your business goals and constraints</li><li><strong>Collaborative workshops</strong> with your team to identify opportunities</li><li><strong>Design solutions</strong> tailored to your product and users</li><li><strong>Ongoing support</strong> and iteration through build and launch</li></ol>",
+      "image": "/images/6a6ef4e2fff25f1356e4f516_6a6ef46f56ba2a604e4e67dc_spark-ai-product-design-process-v2.png",
+      "imageAlt": "Process",
+      "imageFirst": false
+    }
+  ],
+  "related": [
+    "saas-ux-audit",
+    "software-design"
+  ]
+}

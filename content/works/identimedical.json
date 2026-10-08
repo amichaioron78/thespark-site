@@ -1,0 +1,307 @@
+{
+  "slug": "identimedical",
+  "seo": {
+    "title": "Identimedical | Spark Design Agency - UX/UI & Branding",
+    "description": null,
+    "ogImage": null
+  },
+  "hero": {
+    "bgImage": "/images/6640945504bb5b3560467653_Identimedical_1.webp",
+    "bgAlt": "uturn Portfolio by spark ",
+    "logo": null,
+    "logoAlt": "",
+    "color": "#01223b",
+    "heroBg": "#1d5303",
+    "meta": [
+      {
+        "label": "TYPE",
+        "value": "Medical, Mobile Application Design"
+      },
+      {
+        "label": "CLIENT",
+        "value": "IdentiMedical"
+      },
+      {
+        "label": "DELIVERABLES",
+        "value": "Mobile Applicaion Design, Product as a service,UX, UI, Rapid prototyping"
+      }
+    ],
+    "title": "Identi-Medical -The leader in AI-powered healthcare inventory management solutions.",
+    "introHtml": "<p>We recently partnered with IDENTI Medical to develop a comprehensive healthcare supply chain system within just three months. At Spark Design Agency, we specialize in transforming ideas into powerful, user-centric solutions. Our approach combines strategic insights with cutting-edge design to deliver exceptional results, ensuring innovation and efficiency in every project.</p>",
+    "pageBg": null
+  },
+  "blocks": [
+    {
+      "type": "frame",
+      "bg": "#f5f6f7",
+      "bgImage": null,
+      "noPaddingTop": false,
+      "children": [
+        {
+          "type": "image",
+          "src": "/images/6640a02242cab39376f2f344_Identimedical_2.webp",
+          "alt": "Identimedical web design",
+          "variant": "web",
+          "rounded": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "html": "<h2><strong>Understanding Client Needs:</strong></h2><p>We start by deeply understanding the unique challenges and goals of our clients. For IDENTI Medical, this involved analyzing their need for full inventory visibility, precise tracking, and automated replenishment in healthcare settings.</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#f5f6f7",
+          "bgImage": "/images/66409e7503a77bdd4a2a96d8_Identimedical_card_bg.svg",
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/66409e45a0ad52ac4d2ffc9c_identimedica_3.png",
+              "alt": "Mobile web design",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": false,
+      "wide": false
+    },
+    {
+      "type": "split",
+      "html": "<h2><strong>Strategic Planning:</strong></h2><p>We develop a strategic plan that outlines the project scope, timelines, and key milestones. This includes setting clear objectives and aligning them with our client's vision.</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#f5f6f7",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/664096bd42cab39376eaea55_Identimedical_4.webp",
+              "alt": "uturn mobile app widget",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "bg": "#f5f6f7",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/664096c9a0f5e2e46007f160_Identimedical_5.webp",
+              "alt": "uturn mobile app widget",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": true,
+      "wide": true
+    },
+    {
+      "type": "text",
+      "html": "<p>We used a dark blue theme with pastel high-lights to signify that this product is analytical yet friendly</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "image",
+      "src": "/images/664097f312db89571881ca73_Identimedical_6.webp",
+      "alt": "UTurn Branding ",
+      "variant": "full",
+      "rounded": false,
+      "hidden": false
+    },
+    {
+      "type": "split",
+      "html": "<h2><strong>Collaborative Design Process:</strong></h2><p>Our team of UX/UI designers collaborates closely with the client, ensuring that every design decision supports the overall business goals. We use iterative design sprints to incorporate feedback and make necessary adjustments swiftly.</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#f5f6f7",
+          "bgImage": "/images/66409e7503a77bdd4a2a96d8_Identimedical_card_bg.svg",
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/66409eb82d87f739e019a07f_Identimedical_7.png",
+              "alt": "Mobile web design",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": true,
+      "wide": false
+    },
+    {
+      "type": "split",
+      "html": "<h2>Rapid design Prototypes</h2><p>With a streamlined development process, we deliver high-quality products within tight deadlines. Our advanced prototypes allow us to test the product ahead of development, making necessary changes to meet the client's needs before one line of code is placed. <br/><br/>Our recent project with IDENTI Medical was completed in just three months, demonstrating our ability to meet ambitious targets without compromising on quality.</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#f5f6f7",
+          "bgImage": "/images/66409e7503a77bdd4a2a96d8_Identimedical_card_bg.svg",
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/66409ee2991feb5b656a490b_Identimedical_8.png",
+              "alt": "Mobile web design",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": false,
+      "wide": false
+    },
+    {
+      "type": "text",
+      "html": "<p>Simplicity is key for good utilitarian design</p>",
+      "noPadding": false,
+      "centered": true,
+      "white": false
+    },
+    {
+      "type": "gallery",
+      "columns": 3,
+      "children": [
+        {
+          "type": "frame",
+          "bg": "transparent",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/66409c9612db89571885a114_Identimedical_9.png",
+              "alt": "Identimedical mobile design",
+              "variant": "smaller",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "bg": "transparent",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/66409ca2116f608713c3f432_Identimedical_10.png",
+              "alt": "Identimedical mobile design",
+              "variant": "smaller",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "bg": "transparent",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/66409cadef4b6cabf227257f_Identimedical_11.png",
+              "alt": "Identimedical mobile design",
+              "variant": "smaller",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "html": "<h2><strong>Project Highlights:</strong></h2><p><strong>User-Centric Interface:</strong> <br/>Designed an intuitive and visually appealing interface that provides comprehensive visibility into inventory levels. This enhances user experience by simplifying complex data into actionable insights, improving decision-making and operational efficiency.<br/><br/><strong>Seamless Interaction: <br/></strong>Developed a smooth and responsive user interface that ensures precise and real-time tracking of inventory movements. This interaction design focuses on user needs, making the system easy to navigate and highly efficient.<br/><br/><strong>Intelligent Automation:</strong> <br/><br/>Created a user-friendly AI-driven automated replenishment system. Our design reduces manual workload and minimizes the risk of stockouts by providing clear, actionable notifications and streamlined workflows.</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#f5f6f7",
+          "bgImage": "/images/66409e7503a77bdd4a2a96d8_Identimedical_card_bg.svg",
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/66409f118bde2a449fcb86a5_Identimedical_12.png",
+              "alt": "Mobile web design",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": false,
+      "wide": false
+    },
+    {
+      "type": "split",
+      "html": "<h2><strong>Final Delivery and Support:</strong></h2><p>Upon project completion, we provide comprehensive support to ensure a smooth transition and implementation. Our ongoing collaboration ensures that the product continues to evolve and meet the client's needs effectively.</p>",
+      "images": [
+        {
+          "type": "frame",
+          "bg": "#f5f6f7",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/66409c52b6a5c7816cfe58de_Identimedical_13.png",
+              "alt": "uturn mobile app widget",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "bg": "#f5f6f7",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/66409c47b23c0b8013a92f3a_Identimedical_14.png",
+              "alt": "uturn mobile app widget",
+              "variant": "mobile",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ],
+      "imageFirst": true,
+      "wide": true
+    },
+    {
+      "type": "wistia",
+      "id": "ru5iwf35px"
+    }
+  ]
+}

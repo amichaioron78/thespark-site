@@ -1,0 +1,228 @@
+{
+  "slug": "trinity-audio",
+  "seo": {
+    "title": "Trinity Audio | Spark Design Agency - UX/UI & Branding",
+    "description": null,
+    "ogImage": null
+  },
+  "hero": {
+    "bgImage": "/images/6459065452c1e95a0ec5b4ca_Trinity-Audio_cover.jpg",
+    "bgAlt": "",
+    "logo": null,
+    "logoAlt": "",
+    "color": "#262463",
+    "heroBg": null,
+    "meta": [
+      {
+        "label": "TYPE",
+        "value": "Responsive Design"
+      },
+      {
+        "label": "CLIENT",
+        "value": "Trinity Audio"
+      },
+      {
+        "label": "DELIVERABLES",
+        "value": "Design Strategy, Wire-frames, UX, UI, Product Design"
+      }
+    ],
+    "title": "Trinity Audio -a world of audio experiences for your readers",
+    "introHtml": "<p>As SPARK design agency, we partnered with Viridix, an agritech company, in 2022 to develop a user-centered precision irrigation system powered by real-time soil moisture sensors and optimized for UX/UI. Our innovative solution helps growers save water, increase crop yields, and improve profits.</p>",
+    "pageBg": "#fcf5ec"
+  },
+  "blocks": [
+    {
+      "type": "image",
+      "src": "/images/6459066a5a26100ab4375866_Trinity-Audio_1.webp",
+      "alt": "",
+      "variant": "full",
+      "rounded": false,
+      "hidden": false
+    },
+    {
+      "type": "split",
+      "html": "<h2>Improving conversion with better affordance</h2><p>We helped Trinity Audio Improve their conversion by 24% ,  our first focus was changing the affordance of the button raising conversion by 8%.</p><p>We added a call to action Don’t have time to read? listen instead explaining the value proposition.</p>",
+      "images": [
+        {
+          "type": "image",
+          "src": "/images/6459066a5a26104d0537586c_Trinity-Audio_app_2.webp",
+          "alt": "",
+          "variant": "full",
+          "rounded": false,
+          "hidden": false
+        }
+      ],
+      "imageFirst": false,
+      "wide": false
+    },
+    {
+      "type": "split",
+      "html": "<p>As SPARK, we worked on embedding Trinity Audio's widget into the native design of articles to make it look like a natural part of the page and differentiate it from Google advertisements. This approach resulted in increased engagement and a higher conversion rate for the app.</p>",
+      "images": [
+        {
+          "type": "image",
+          "src": "/images/6459066b5a26109da937587c_Trinity-Audio_app_3.webp",
+          "alt": "",
+          "variant": "full",
+          "rounded": false,
+          "hidden": false
+        }
+      ],
+      "imageFirst": true,
+      "wide": false
+    },
+    {
+      "type": "image",
+      "src": "/images/6459066a5a26106b60375876_Trinity-Audio_ui_4.webp",
+      "alt": "",
+      "variant": "full",
+      "rounded": false,
+      "hidden": false
+    },
+    {
+      "type": "text",
+      "html": "<p>Using customer Journey maps for Trinity audio to find opportunities to increase customer engagement</p>",
+      "noPadding": false,
+      "centered": false,
+      "white": false
+    },
+    {
+      "type": "gallery",
+      "columns": 3,
+      "children": [
+        {
+          "type": "frame",
+          "bg": "#f3dae8",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/647363b0f753275fb11057df_trinity-audio_mobile_1.webp",
+              "alt": "Trinity Audio mobile app prototype designed by Spark, a Tel Aviv-based UX/UI and product design age",
+              "variant": "smaller",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "bg": "#f3dae8",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/647363b81599f3a16bbb0dee_trinity-audio_mobile_2.webp",
+              "alt": "Trinity Audio mobile app interface designed by Spark, a Tel Aviv-based UX/UI and product design age",
+              "variant": "smaller",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "bg": "#f3dae8",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/647363c09c08906b60305fa5_trinity-audio_mobile_3.webp",
+              "alt": "Trinity Audio mobile app design concept by Spark, a Tel Aviv-based UX/UI and product design agency",
+              "variant": "smaller",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "html": "<p>AB Testing Various Design solutions for the Trinity Audio widget</p>",
+      "noPadding": false,
+      "centered": false,
+      "white": false
+    },
+    {
+      "type": "split",
+      "html": "<h2>WIDE SPREAD ADOPTION</h2><p>Trinity Audio has gained widespread adoption among companies and news agencies worldwide, including Newsweek, Lenovo, Miami Herald, Variety, Nissan, and many others.</p>",
+      "images": [
+        {
+          "type": "image",
+          "src": "/images/6459066b5a26109da937587c_Trinity-Audio_app_3.webp",
+          "alt": "",
+          "variant": "full",
+          "rounded": false,
+          "hidden": false
+        }
+      ],
+      "imageFirst": true,
+      "wide": false
+    },
+    {
+      "type": "text",
+      "html": "<p>We continue to innovate with Trinity Audio to enhance their ROI</p>",
+      "noPadding": false,
+      "centered": false,
+      "white": false
+    },
+    {
+      "type": "gallery",
+      "columns": 3,
+      "children": [
+        {
+          "type": "frame",
+          "bg": "#f3dae8",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/6473641f6fc6bf5f6fb99385_trinity-audio_mobile_4.webp",
+              "alt": "Trinity Audio mobile app design concept by Spark, a Tel Aviv-based UX/UI and product design agency",
+              "variant": "smaller",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "bg": "#f3dae8",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/6473642c1b9079853db78882_trinity-audio_mobile_5.webp",
+              "alt": "Trinity Audio Mobile 5: A sleek, high-fidelity music player designed for Android and iOS, showcasin",
+              "variant": "smaller",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "bg": "#f3dae8",
+          "bgImage": null,
+          "noPaddingTop": false,
+          "children": [
+            {
+              "type": "image",
+              "src": "/images/647364368bf42042653f1373_trinity-audio_mobile_6.webp",
+              "alt": "Trinity Audio mobile app design concept, showcasing user interface and interaction elements.",
+              "variant": "smaller",
+              "rounded": false,
+              "hidden": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
