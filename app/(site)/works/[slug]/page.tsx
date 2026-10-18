@@ -31,6 +31,7 @@ function isDarkHex(hex?: string | null) {
   return (0.299 * r + 0.587 * g + 0.114 * b) / 255 < 0.6;
 }
 
+/** Case study — layout ported from the Webflow work template (.work_hero_img_wrapper, .work_hero_block, .work_top_layout). */
 export default async function WorkPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const w = getWork(slug);
@@ -42,34 +43,40 @@ export default async function WorkPage({ params }: { params: Promise<{ slug: str
   return (
     <article style={{ backgroundColor: hero.pageBg ?? undefined }}>
       {hero.bgImage && (
-        <div className="relative max-h-[500px] overflow-hidden pt-[100%] sm:pt-[38%]" style={{ backgroundColor: hero.heroBg ?? undefined }}>
+        <div className="relative -mt-[72px] max-h-[500px] overflow-hidden pt-[100%] sm:pt-[38%] md:-mt-[80px]" style={{ backgroundColor: hero.heroBg ?? undefined }}>
           <Image src={hero.bgImage} alt={hero.bgAlt ?? ""} fill priority sizes="100vw" className="object-cover" />
           {hero.logo && (
             // eslint-disable-next-line @next/next/no-img-element
-            <img src={hero.logo} alt={hero.logoAlt ?? ""} className="absolute inset-0 h-full w-full object-scale-down p-6 md:px-10" />
+            <img src={hero.logo} alt={hero.logoAlt ?? ""} className="absolute inset-0 h-full w-full object-scale-down px-[20%] py-6 sm:px-10" />
           )}
         </div>
       )}
-      <header className={`px-[4.8%] py-8 md:py-10 ${dark ? "text-white" : "text-ink"}`} style={{ backgroundColor: hero.color ?? "#1d5303" }}>
-        <div className="container">
-          <dl className="flex flex-wrap gap-x-10 gap-y-2 text-xs uppercase">
-            {hero.meta.map((m) => (
-              <div key={m.label} className="flex gap-2">
-                <dt className="opacity-60">{m.label}:</dt>
-                <dd className="normal-case">{m.value}</dd>
+      <header className={`px-[4.8%] pt-[30px] md:pb-[30px] ${dark ? "text-white" : "text-ink"}`} style={{ backgroundColor: hero.color ?? "#1d5303" }}>
+        <div className="container px-[4.8%]">
+          <dl className="mb-10 grid gap-4 text-xs sm:mb-[30px] sm:grid-cols-[minmax(200px,400px)_1fr] lg:mb-20">
+            {hero.meta.slice(0, 1).map((m) => (
+              <div key={m.label}>
+                <dt className="mr-2 inline opacity-60">{m.label}:</dt>
+                <dd className="inline">{m.value}</dd>
               </div>
             ))}
+            <div className="block sm:flex">
+              {hero.meta.slice(1).map((m) => (
+                <div key={m.label} className="mr-4">
+                  <dt className="mr-2 inline opacity-60">{m.label}:</dt>
+                  <dd className="inline">{m.value}</dd>
+                </div>
+              ))}
+            </div>
           </dl>
-          <div className="mt-10 grid gap-8 md:grid-cols-[1fr_1.85fr] md:gap-16">
-            <h1 className={`text-[2.25rem] leading-[1.28] ${dark ? "text-white" : "text-ink"}`}>{hero.title}</h1>
-            <RichText html={hero.introHtml} className={dark ? "white" : ""} />
+          <div className="mb-10 grid gap-4 sm:mb-[30px] md:grid-cols-[minmax(200px,400px)_1fr] lg:mb-20">
+            <h1 className={`mb-4 text-[1.6em] leading-[1.28] tracking-[0.015em] sm:text-[1.75em] md:mb-0 md:pr-10 lg:text-[2.25em] ${dark ? "text-white" : "text-ink"}`}>{hero.title}</h1>
+            <RichText html={hero.introHtml} className={`work-intro ${dark ? "white" : ""}`} />
           </div>
         </div>
       </header>
 
-      <div className="pb-10">
-        <Blocks blocks={w.blocks} />
-      </div>
+      <Blocks blocks={w.blocks} />
 
       <WorksGrid works={related} exclude={slug} />
     </article>

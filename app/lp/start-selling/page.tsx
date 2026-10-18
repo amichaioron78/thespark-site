@@ -75,7 +75,7 @@ export default function StartSellingPage() {
         <Reveal key={i} as="section" className="mx-auto max-w-[1340px] px-4 py-12">
           <div className="grid items-center gap-10 md:grid-cols-2 md:gap-24">
             <div className={s.imageFirst ? "md:order-2" : ""}>
-              <h2>{s.heading}</h2>
+              <h2 className="text-[1.4em] uppercase leading-[1.64] tracking-[0.03em] text-ink md:text-[1.75em]">{s.heading}</h2>
               <RichText html={s.html} className="blue mt-6" />
             </div>
             {s.image && (

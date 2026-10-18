@@ -1,15 +1,23 @@
 import Link from "next/link";
 import type { ServiceCard as T } from "@/lib/content";
 
-export default function ServiceCard({ service }: { service: T }) {
+/**
+ * .services_service_card from the Webflow build: light blue tint, 50px padding, uppercase Playfair title;
+ * on hover the whole card turns blue with white text, the title gets a white underline and the arrow
+ * becomes a green circle rotated 45°.
+ */
+export default function ServiceCard({ service, as: Heading = "h2" }: { service: T; as?: "h2" | "h3" }) {
   return (
-    <Link href={`/services/${service.slug}`} className="group block bg-[#363ff20d] p-8 text-blue transition-colors hover:bg-[#363ff21a] md:p-12">
-      <h2 className="uppercase" style={{ fontSize: "1.5rem" }}>{service.title}</h2>
-      <p className="mt-4 text-sm leading-relaxed">{service.description}</p>
-      <div className="mt-16">
-        <span className="inline-flex h-12 w-12 items-center justify-center rounded-full border border-blue transition-transform group-hover:-translate-y-1 group-hover:translate-x-1">
-          <Arrow />
-        </span>
+    <Link href={`/services/${service.slug}`} className="group block bg-[#363ff20d] p-6 text-blue transition-colors duration-200 hover:bg-blue hover:text-white sm:p-10 lg:p-[50px]">
+      <div className="inline-block">
+        <Heading className="display text-[1.4em] font-bold uppercase leading-[1.64] tracking-[0.03em] text-blue transition-colors duration-200 group-hover:text-white md:text-[1.75em]">{service.title}</Heading>
+        <span className="block h-[2px] w-0 bg-white transition-all duration-200 group-hover:w-full" />
+      </div>
+      <div className="h-4" />
+      <p className="text-[1.125em]">{service.description}</p>
+      <div className="mt-20">
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img src="/images/64414929b2ae44173dbed704_arrow-top-right-blue.svg" alt="" width={48} height={48} className="h-12 w-12 rounded-full transition-all duration-200 group-hover:rotate-45 group-hover:bg-green" />
       </div>
     </Link>
   );

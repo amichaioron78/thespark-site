@@ -27,6 +27,15 @@
   --font-display: var(--font-display);
 }
 
+/* Breakpoints aligned with the Webflow build (479 / 767 / 991) */
+@theme {
+  --breakpoint-sm: 480px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 992px;
+  --breakpoint-xl: 1280px;
+  --breakpoint-2xl: 1536px;
+}
+
 @layer base {
 html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
 body {
@@ -52,13 +61,39 @@ h3 { font-size: 1.5rem; }
 a { color: inherit; }
 }
 
-/* Layout helpers mirroring the original spacing system */
-.section { margin-left: var(--side); margin-right: var(--side); padding-top: 50px; padding-bottom: 50px; }
-.section-medium { padding: 60px var(--side); }
+/* Component classes live in the components layer so Tailwind utilities (e.g. lg:hidden) can override them. */
+@layer components {
+/* Layout helpers mirroring the original spacing system:
+   .about-section (margin 4.8%, padding 50px 0) + its inner .uk-container (padding 0 4.8%) = `.section`;
+   .about-section.uk-section-medium (padding 60px 4.8%) + .uk-container = `.section-medium`.
+   Below 992px: .about-section loses its margin and pads 80px 4.8% (64px/100px below 768px, 40px below 480px). */
+.section { margin-left: var(--side); margin-right: var(--side); padding: 50px var(--side); }
+.section-medium { padding: 60px calc(var(--side) * 1.9); }
 .container { max-width: 2000px; margin: 0 auto; }
+@media (max-width: 991px) {
+  .section { margin-left: 0; margin-right: 0; padding: 80px calc(var(--side) * 1.9); }
+  .section-medium { padding-top: 48px; padding-bottom: 48px; }
+}
+@media (max-width: 767px) {
+  .section { padding-top: 64px; padding-bottom: 100px; }
+  .section-medium { padding-top: 43px; padding-bottom: 43px; }
+}
 @media (max-width: 479px) {
   .section { padding-top: 40px; padding-bottom: 40px; }
+  .section-medium { padding-top: 35px; padding-bottom: 35px; }
 }
+
+/* Case-study blocks (.about-section + .uk-container around each Webflow block; the first one also pads the top) */
+.work-block { margin-left: var(--side); margin-right: var(--side); padding: 0 var(--side) 50px; }
+.work-block.first { padding-top: 50px; }
+.work-block.frame + .work-block.frame { margin-top: -50px; } /* consecutive passe-partouts touch (next one is p-t-0) */
+@media (max-width: 991px) { .work-block { margin-left: 0; margin-right: 0; padding-left: calc(var(--side) * 1.9); padding-right: calc(var(--side) * 1.9); } }
+.work-text p { font-size: 1.125em; color: #333; letter-spacing: 0.005em; margin-bottom: 24px; }
+.work-text.white p { color: #fff; }
+.work-intro p { font-size: 1.125em; margin-bottom: 16px; }
+.about-txt p { font-size: 1.125em; }
+@media (max-width: 991px) { .about-txt p { font-size: 1em; } }
+@media (max-width: 991px) { .work-text p, .work-intro p { font-size: 1em; } }
 
 /* Buttons */
 .btn {
@@ -78,8 +113,42 @@ a { color: inherit; }
 .btn:hover { transform: translateY(-1px); box-shadow: 0 6px 18px rgba(54, 63, 242, 0.18); }
 .btn-outline { background: transparent; border: 1px solid currentColor; color: inherit; }
 
-/* Eyebrow / meta labels */
+/* Eyebrow / meta labels (.card_sub_title on the original) */
 .eyebrow { color: var(--blue); letter-spacing: 0.08em; text-transform: uppercase; font-size: 0.75rem; line-height: 1.3; }
+@media (max-width: 479px) { .eyebrow { font-size: 0.7rem; } }
+
+/* Small section labels (.tiny_header / .text_link_tiny on the original): Poppins semibold, not Playfair */
+.tiny-header { font-family: var(--font-body); font-size: 1rem; font-weight: 600; color: var(--blue); letter-spacing: 0.005em; line-height: 1.5; margin: 0; }
+.tiny-header.light { color: #363ff299; font-weight: 400; }
+.text-link-tiny { color: var(--blue); font-size: 0.75rem; font-weight: 600; line-height: 1.5; text-decoration: none; }
+.text-link-tiny:hover { text-decoration: underline; }
+
+/* ----------------------------------------------------------------------
+   Home hero (._1_home_hero_header)
+   ---------------------------------------------------------------------- */
+/* The statement under the SPARK wordmark: Poppins light, wide tracking. Smaller than the Webflow 3.3em
+   (Amichai, 2026-10-12: "too big, should sit right under the word SPARK"). */
+.hero-sub {
+  position: relative;
+  z-index: 500;
+  font-family: var(--font-body);
+  font-weight: 300;
+  font-size: 1em;
+  line-height: 1.4;
+  letter-spacing: 0.1em;
+  color: var(--white);
+  display: inline-block;
+  width: 70%;
+  margin: 0 auto 24px;
+}
+@media (min-width: 480px) { .hero-sub { width: 60%; font-size: 1.15em; margin-bottom: 0; } }
+@media (min-width: 992px) {
+  .hero-sub { display: block; width: auto; max-width: 560px; font-size: 1.5em; margin: -58px 0 10px 10px; transition: opacity 0.4s; }
+  /* with JS the Lottie wordmark/face replace the static SVGs on desktop */
+  .js .hero-logo-static, .js .hero-face-static { display: none; }
+  .js .hero [data-hero-reveal] { opacity: 0; }
+}
+.hero-lottie-face svg, .hero-lottie-logo svg, [data-lottie] svg { display: block; }
 
 /* ----------------------------------------------------------------------
    Rich text (CMS / case-study copy)
@@ -103,16 +172,26 @@ a { color: inherit; }
 .rich.blue, .rich.blue h2, .rich.blue h3 { color: var(--blue); }
 .rich.blog { max-width: 800px; margin: 0 auto; }
 .rich.blog p { margin-bottom: 16px; }
-.rich.blog h2 { color: var(--blue-dark); }
+.rich.blog h2 { color: var(--black); letter-spacing: 0.01em; }
+.rich.blog h3 { color: var(--black); font-family: var(--font-body); font-size: 1.125em; font-weight: 600; }
+.rich.blog p { color: var(--black); }
+.rich.blog p + h2, .rich.blog p + h3, .rich.blog ul + h2, .rich.blog ul + h3 { margin-top: 40px; }
+.rich.blog img { margin: 40px auto; border-radius: 0; }
+@media (max-width: 992px) { .rich.blog img { margin: 16px auto; } .rich.blog p + h2, .rich.blog p + h3 { margin-top: 16px; } }
 [dir="rtl"] .rich { text-align: right; }
 [dir="rtl"] .rich ul, [dir="rtl"] .rich ol { padding-left: 0; padding-right: 1.4em; }
 
 /* ----------------------------------------------------------------------
-   Reveal-on-scroll (replaces the GSAP reveal used on the Webflow build)
+   Reveal-on-scroll — mirrors the GSAP reveal of the Webflow build
+   ([gs_reveal_n]: y 100px → 0, autoAlpha 0 → 1, 1.25s expo.out; desktop only, < 768px skipped)
    ---------------------------------------------------------------------- */
-.js .reveal { opacity: 0; transform: translateY(24px); transition: opacity 0.7s ease, transform 0.7s ease; }
-.js .reveal.is-visible { opacity: 1; transform: none; }
-@media (prefers-reduced-motion: reduce) { .reveal { opacity: 1; transform: none; transition: none; } }
+@media (min-width: 768px) {
+  .js .reveal { opacity: 0; transform: translateY(100px); transition: opacity 1.25s cubic-bezier(0.19, 1, 0.22, 1), transform 1.25s cubic-bezier(0.19, 1, 0.22, 1); }
+  .js .reveal.from-left { transform: translateX(-100px); }
+  .js .reveal.from-right { transform: translateX(100px); }
+  .js .reveal.is-visible { opacity: 1; transform: none; }
+}
+@media (prefers-reduced-motion: reduce) { .reveal { opacity: 1 !important; transform: none !important; transition: none !important; } }
 
 /* Horizontal snap carousel for testimonials */
 .snap-x { scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
@@ -126,8 +205,8 @@ a { color: inherit; }
   color: inherit;
   border: 0;
   border-bottom: 1px solid currentColor;
-  padding: 10px 0;
-  margin-bottom: 32px;
+  padding: 10px 0 12px;
+  margin-bottom: 40px;
   font: inherit;
   outline: none;
   border-radius: 0;
@@ -135,3 +214,7 @@ a { color: inherit; }
 .field::placeholder { color: inherit; opacity: 0.7; }
 .field:focus { border-bottom-color: var(--green); }
 select.field option { color: var(--black); }
+@media (max-width: 991px) { .field { margin-bottom: 32px; } }
+@media (max-width: 479px) { .field { margin-bottom: 26px; } }
+
+} /* end @layer components */

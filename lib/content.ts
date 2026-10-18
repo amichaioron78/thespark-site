@@ -100,6 +100,19 @@ export function getWorksOrdered(): WorkListItem[] {
   return ordered;
 }
 
+/** Order of the Webflow /works-categories/all listing (collection list sort), captured 2026-10-08. */
+export const WORKS_ALL_ORDER = [
+  "suridata", "virdix", "marketman", "brain-buzz", "healtop", "hermes", "deepkeep", "innovesta", "aeye", "evrideo",
+  "sonol", "nym", "qsee-carbon", "uturn", "identimedical", "insfocus", "breeze", "trinity-audio", "pomicell", "bariks",
+];
+export function getWorksAllOrdered(): WorkListItem[] {
+  const all = getWorks();
+  const byslug = new Map(all.map((w) => [w.slug, w]));
+  const ordered = WORKS_ALL_ORDER.map((s) => byslug.get(s)).filter(Boolean) as WorkListItem[];
+  for (const w of all) if (!WORKS_ALL_ORDER.includes(w.slug)) ordered.push(w);
+  return ordered;
+}
+
 export const SITE = {
   name: "SPARK",
   url: "https://www.thespark.ai",
